@@ -1,0 +1,215 @@
+state   input   response    next
+1   "coffin"    "Eh? What coffin d'you mean?"   1
+1   "william"    "xxx"   2
+2   "coffin"    "The old man stares at you suspiciously. 'William was buried in the family crypt, at his mother's request, so he was; what're you getting at?'"    3
+2   "william"   "'All I care to tell of that tragedy, I've told,' the old man says quietly, not looking at you. 'I've no wish to speak of it again.'"   2
+3   "coffin"    "'I told you about that already,' snaps the old man. 'Why don't you leave me alone?'"    3
+3   "william"   "'All I care to tell of that tragedy, I've told,' the old man says quietly, not looking at you. 'I've no wish to speak of it again.'"   3
+
+
+inpu   state   response    next
+"coffin"    1   "xxx"       1
+"william"    1   "xxx"       1
+
+
+crypt       william     response
+1           0           "Eh? What coffen d'you mean?"
+1           1           "Eh? What coffen d'you mean?"
+1           1           "what're you getting at?"
+2           1           "told you that already" (g)
+2           2           "All I care to tell"
+
+
+- 1
+    - coffin: what coffin do you mean (back to 1)
+    - william: (first william response) (2)
+    - "what're you showing me that for?" (back to 1)
+
+- 2
+    - coffin: what're you getting at? (3)
+    - william: "all I care to tell" (back to 2)
+    - skull: starts visibly (back to 2)
+
+- 3
+    - coffin: told you that already (3)
+    - william: all I care to tell (3)
+    - skull: final response
+
+
+
+self
+
+The old man sighs. "I was a doctor, once. I was a very good doctor. But that was before Edward, you
+know. Little Edward and his..." His voice trails off to a whisper, but you could swear he mouthed
+the word "brother".
+
+anchorhead
+
+The old man covers his face in his hands. "Not a town," he cries, "not a town -- a hive of BURROWING
+INSECTS! A SWARM OF MAGGOTS, THEY ARE!" He looks at you slyly. "But they can't find me, when the
+maggots come out. They can't find me in my hidey-hole."
+
+river
+
+You can't think of anything to say about that for the moment.
+
+william / brother
+
+The old man falls silent all of a sudden, and for a while he simply stares down at his hands, limp
+and open in his lap. Then, drawing a deep breath, he begins to speak, and for the first time his
+voice is steady, without the reedy whine of alcoholic craving.
+
+"Ayuh, little Edward had a brother, so he did. And I know him. I know of William, so I do. I
+delivered the child. Anna Verlac was his mother. It... it was... "
+
+He leans over and grips your arm with a hand that is suddenly steady and strong. "It was her
+father's poison seed, y'see. That evil bastard poisoned her womb and put a monster inside her. What
+she gave birth to... it was... it wasn't... oh, God, when I held that... that abortion in the shape
+of an infant, that thing with hooves for feet and its crown of writhing... when it looked up at
+me... It looked up at me with its father's red-rimmed eyes." The old man shudders convulsively, and
+it is a while before he can speak again.
+
+"Anna and I decided between ourselves, we did. The... her child... it lived for a few years, but it
+was sickly, and in pain, and it could never be normal nor healthy. She brought it to me... I was her
+doctor, you see, I'd seen her through her child's birth, and she trusted me... and I put the thing
+down, softly and without pain, and they laid it to rest in the family crypt.
+
+"And Anna thanked me for it, so she did."
+
+The old man falls silent again, and his wavering, bloodshot eyes wander once more out to sea. And he
+is lost, once again, to the horror and pain of the memories that can only be silenced by drink.
+
+anna
+
+Tears stream unchecked down the old man's face. "Shouldn't have happened to the girl. Only
+seventeen, she was, still a child when he... when that red-eyed monster took her... " His eyes
+suddenly darken, his fists clench. "HIS OWN DAUGHTER, GODS FUCK 'EM! SHOULDN'T HAVE DONE THAT TO HIS
+OWN DAUGHTER! GODS FUCK 'EM ALL!!"
+
+mordecai
+
+The old man shrinks away from you. "Not here!" he hisses. "Not anywhere! Never speak it!"
+
+edward
+
+The old man lets out a vicious cackle. "They got to him, didn't they? Maggots
+got to him good. Got into his head. The maggots got into his head, eatin' at him
+'til he had to crack it open to get 'em out. Poor boy." He shakes his head.
+"Delivered him, I did. Pulled him right out of his mama. Him and his -- "
+Suddenly he stops, and will say no more.
+
+wilhelm
+
+The old man screws his face up in confusion. "Don't know about that," he mutters.
+
+flask
+
+The bum perks up. "More whiskey?" he asks greedily.
+
+crypt (xxx)
+
+The old man stares at you suspiciously. "William was buried in the family crypt,
+at his mother's request, so he was; what're you getting at?"
+
+"I told you about that already," snaps the old man. "Why don't you leave me alone?"
+
+> ask/tell man about skull
+
+The old man frowns in confusion. "What are you talking about?" he asks.
+
+"I don't know what you're talking about, so I don't," says the old man, but it's plain he's hiding
+something. He tries to crawl away, but is plainly too weak, and settles instead for rolling over on
+the mattress to face the other direction. "You're speaking gibberish. Go away."
+
+The old man bares his teeth. "You can't prove it! You can't prove anything, so you can't!"
+
+"I'll not listen to lies!" screeches the old man, clapping his hands to his ears.
+
+
+
+
+
+
+
+
+>tell man about william
+
+"All I care to tell of that tragedy, I've told," the old man says quietly, not
+looking at you. "I've no wish to speak of it again."
+
+>show skull to man
+
+    BEFORE
+
+The old man bats the skull away with an expression of disgust. "What're you stickin' that in my face
+for?" he demands.
+
+The old man starts visibly when you show him the skull. "What about it?" he mutters.
+
+    AFTER
+
+(first taking the animal's skull)
+The old man grows sickly pale. He raises one hand, as if to ward off the sight
+of the skull, deny the truth one more time; then his hand drops, and he sinks
+down onto the mattress, groaning.
+
+"Oh, it's true," he cries, "it's true, God help my lying soul. It was her father
+who wished to kill the thing, not Anna -- kill it to make way for another, he
+said, a 'more fitting vessel'. He wanted to try again -- Gods, the depth of his
+evil -- after the way the first one came out, he wanted to try again!
+
+"Anna came to me and asked for my help, and what could I do? What could I do? It
+was her child, for God's sake, no matter what else it was, and she couldn't bear
+to lose it. But we had to weigh the coffin down with something..."
+
+He sits up, suddenly, fastening on you with a sick, pleading look.
+
+"I've told you too much, now," he whispers desperately. "They'll know; the
+maggots'll find out for sure. They'll find me; even in my hole, they'll find
+me." He lets out an eye-wateringly pungent breath, "P'raps it's best they do.
+I've spent so long drowning my sins, p'raps time's come to pay for them at last.
+This won't do me much good no more," he says, holding up his little copper key.
+"And yet..." He closes his fist around it again. "And yet, maybe there's a
+way... they say there's ways to protect yourself, wards versus the Evil Eye and
+such. " The old man stares greedily at the amulet around your neck. "Perhaps, if
+I could get me one o' those..."
+
+>give amulet to man
+"Thank you kindly, Miss, you're a generous one, so you are," grins the old man
+as he closes his grimy fingers around the charm. "And here y'are," he says,
+tossing you the copper key. "I'll pray it does you good."
+
+The old man staggers to his feet. "I'll be gettin' on, then," he says. "If I can
+make away before nightfall, p'raps I'll be out of their reach before the maggots
+come out." He wraps the leather thong around his hand and closes the charm in
+his fist.
+
+He turns to you one last time. "Don't let them find you," he says earnestly.
+"Get out while you can. If you stay, they'll track you down eventually. It's the
+blood. He can smell it, so he can. And he always returns to his blood."
+
+He shambles off, up the riverwalk toward Town Square, his shadow dragging long
+behind him. Looking to the sky, you realize that the sun is nearly set; you've
+been talking to the old man for much longer than you thought, and it will be
+dark soon.
+
+    AFTER
+
+    >give skull to man
+"Don't show me again," the old bum pleads, looking away. "I've sinned enough; I don't need to be
+forced to look on it, so I don't."
+
+Your score has just gone up by five points.
+
+////// The old man looks up at you with fawning admiration.
+
+> (tell old man about william after he's talked)
+
+"All I care to tell of that tragedy, I've told," the old man says quietly, not looking at you. "I've
+no wish to speak of it again."
+
+> show [
+
+The old man stares at the trenchcoat blankly, not sure what you want him to do with it.
+
+

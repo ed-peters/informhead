@@ -1,18 +1,18 @@
 ! Blurb file created by Inform Inform 10.1.2 (build )
 
-status "/Applications/Inform.app/Contents/Resources/Internal/HTML/CblorbModel.html" "/Users/ed.peters/Documents/Anchorhead.inform/Build/StatusCblorb.html"
+status "/Applications/Inform.app/Contents/Resources/Internal/HTML/CblorbModel.html" "/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Build/StatusCblorb.html"
 
 
 ! Identification
 
-project folder "/Users/ed.peters/Documents/Anchorhead.inform"
-release to "/Users/ed.peters/Documents/Anchorhead.materials/Release"
+project folder "/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform"
+release to "/Users/ed.peters/Code/Inform/anchor/Anchorhead.materials/Release"
 
 ! Blorb instructions
 
 storyfile leafname "Informhead.gblorb"
-storyfile "/Users/ed.peters/Documents/Anchorhead.inform/Build/output.ulx" include
-ifiction "/Users/ed.peters/Documents/Anchorhead.inform/Metadata.iFiction" include
+storyfile "/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Build/output.ulx" include
+ifiction "/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Metadata.iFiction" include
 cover "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/DefaultCover.jpg"
 picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/DefaultCover.jpg"
 

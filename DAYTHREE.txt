@@ -1,0 +1,73 @@
+You try to get dressed as quietly as possible, but apparently Michael isn't as knocked out as you thought he was. Michael comes awake with a jerk and a hoarse shout. For a moment or two he only stares about blindly, as if unsure of where he is and all but unaware of your presence. Then, with a grunt of surprise, he seems to come to his senses and painstakingly crawls out of bed.
+
+Michael still looks half asleep; his hair is unkempt, his skin blotchy and pale, his eyes bloodshot and red. Every so often he grimaces and raises a shaky hand to his forehead, as though afflicted by a painful headache.[paragraph break]You notice something odd about Michael's feet. They are covered with dried mud.
+
+> ask michael about mud
+
+Michael stops and looks down at his feet. For a moment he looks genuinely dumbfounded. 'I... I,
+uh... I don't know. I have no idea how that got there.'[paragraph break]He spreads his hands and looks the other way. Suddenly you realize: he is frightened. He is hiding something from you, certainly, but he's hiding it because he is frightened of it. Maybe he doesn't himself understand what happened to him last night... or where it happened to him.
+
+
+
+Michael stands here, frowning and absently rubbing at his forehead.
+
+Michael walks a few steps across the room and then stops, as if he had forgotten what he had gone there to do.
+
+Michael glares at you suspiciously.
+
+A shiver runs up your back, for no apparent reason; turning, you realize that Michael has been
+staring at you. He looks away, his expression unreadable.
+
+Michael stops, as if suddenly remembering something. He looks down at his feet, and mutters,
+"...jesus..."
+
+
+KNOWLEDGE
+
+>ask michael about anchorhead
+Michael rounds on you irritably. "Look, this is our home now, goddammit, whether you like it or not;
+we've made the decision and we'll have to stick with it. If you don't like living here, maybe you
+should move out!"
+
+>ask michael about book   
+"I told you," snaps Michael, "I was just doing some research, is all. I really don't feel like
+talking about it now."
+
+>ask michael about william
+Michael dismisses you with an irritable wave of his hand. "You shouldn't believe everything an old
+drunk tells you," he says.
+
+"Jesus, just give it a rest!" Michael shouts, throwing his hands up. "Can't you just fucking leave
+me alone for two goddamn minutes?" He rounds on you. "I mean it," he says, "You push me one more
+time and..." He leaves the rest unfinished. Turning his back on you, he stalks off to the other side
+of the room.
+
+You draw a shaky breath, dismayed and hurt. This is horrible; you can't do anything for Michael if
+he won't talk to you, and everything you say seems to make it worse. In your frustration, you even
+catch yourself wishing that you could spy on your own husband -- that perhaps, unobserved, he might
+offer you some clue as to what is bothering him.
+
+Sighing, you dismiss the thought. What, after all, would that solve?
+
+MOVING
+
+Michael wanders off to the south with a furtive, suspicious glance in your direction.
+Michael wanders downstairs, muttering something about "always being watched...".
+Michael wanders off to the west, muttering something about "needing privacy..."
+Michael wanders off to the east, looking around aimlessly, as though searching for something without even knowing what it is that is lost.
+
+ACTIONS
+
+You can hear Michael moving around elsewhere in the house, the floorboards creaking uneasily with
+his footsteps.
+
+
+
+
+
+
+Suddenly you hear a deep grinding noise that seems to vibrate up through the floor from beneath the
+house. A moment later there is a terrible, wailing howl as of some subterranean wind shrieking
+through unlit passages. Then the grinding again, and all is silent.
+
+Timidly, you call out Michael's name. There is no answer. You are alone in the house.
