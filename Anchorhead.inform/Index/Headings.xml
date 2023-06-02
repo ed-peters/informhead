@@ -17,469 +17,469 @@
     </dict>
     <key>2</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>26</integer>
+        <key>Line</key><integer>23</integer>
         <key>Title</key><string>Volume 1 - Meta</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>3</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>28</integer>
+        <key>Line</key><integer>25</integer>
         <key>Title</key><string>Book 1 - Settings</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>4</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>38</integer>
+        <key>Line</key><integer>36</integer>
         <key>Title</key><string>Book 2 - Extensions</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>5</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>104</integer>
+        <key>Line</key><integer>106</integer>
         <key>Title</key><string>Volume 2 - Scenes</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>6</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>114</integer>
+        <key>Line</key><integer>116</integer>
         <key>Title</key><string>Book 1 - Sleeping</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>7</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>128</integer>
+        <key>Line</key><integer>130</integer>
         <key>Title</key><string>Book 2 - Day One</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>8</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>148</integer>
+        <key>Line</key><integer>150</integer>
         <key>Title</key><string>Part 1 - Michael Reads</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>9</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>172</integer>
+        <key>Line</key><integer>174</integer>
         <key>Title</key><string>Part 2 - Michael Follows</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>10</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>186</integer>
+        <key>Line</key><integer>188</integer>
         <key>Title</key><string>Part 3 - Michael Sleeps</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>11</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>199</integer>
+        <key>Line</key><integer>201</integer>
         <key>Title</key><string>Book 3 - Day Two</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>12</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>224</integer>
+        <key>Line</key><integer>226</integer>
         <key>Title</key><string>Part 1 - Michael Showers</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>13</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>255</integer>
+        <key>Line</key><integer>257</integer>
         <key>Title</key><string>Part 2 - Michael Writes</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>14</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>275</integer>
+        <key>Line</key><integer>277</integer>
         <key>Title</key><string>Part 3 - Close of Day</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>15</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>287</integer>
+        <key>Line</key><integer>296</integer>
         <key>Title</key><string>Book 4 - Day Three</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>16</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>309</integer>
+        <key>Line</key><integer>318</integer>
         <key>Title</key><string>Book 5 - Day Four</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>17</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>313</integer>
+        <key>Line</key><integer>322</integer>
         <key>Title</key><string>Book 6 - Day Five</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>18</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>317</integer>
+        <key>Line</key><integer>326</integer>
         <key>Title</key><string>Volume 3 - Regions &amp; Backdrops</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>19</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>319</integer>
+        <key>Line</key><integer>328</integer>
         <key>Title</key><string>Book 1 - Regions</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>20</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>325</integer>
+        <key>Line</key><integer>334</integer>
         <key>Title</key><string>Book 2 - Backdrops</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>21</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>341</integer>
+        <key>Line</key><integer>350</integer>
         <key>Title</key><string>Volume 4 - North Town</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>22</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>343</integer>
+        <key>Line</key><integer>352</integer>
         <key>Title</key><string>Book 1 - Outside Office</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>23</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>408</integer>
+        <key>Line</key><integer>417</integer>
         <key>Title</key><string>Book 2 - Inside Office</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>24</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>492</integer>
+        <key>Line</key><integer>501</integer>
         <key>Title</key><string>Book 3 - Narrow Street</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>25</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>531</integer>
+        <key>Line</key><integer>540</integer>
         <key>Title</key><string>Book 4 - Twisting Lane &amp; Cauldron</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>26</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>585</integer>
+        <key>Line</key><integer>594</integer>
         <key>Title</key><string>Book 5 - University</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>27</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>678</integer>
+        <key>Line</key><integer>687</integer>
         <key>Title</key><string>Book 6 - Tests</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>28</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>704</integer>
+        <key>Line</key><integer>713</integer>
         <key>Title</key><string>Volume 5 - North of Town</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>29</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>706</integer>
+        <key>Line</key><integer>715</integer>
         <key>Title</key><string>Book 1 - Mill Road &amp; Entrance</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>30</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>743</integer>
+        <key>Line</key><integer>752</integer>
         <key>Title</key><string>Book 2 - Lighthouse</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>31</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>761</integer>
+        <key>Line</key><integer>770</integer>
         <key>Title</key><string>Book 3 - Tests</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>32</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>767</integer>
+        <key>Line</key><integer>776</integer>
         <key>Title</key><string>Volume 6 - South Town</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>33</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>769</integer>
+        <key>Line</key><integer>778</integer>
         <key>Title</key><string>Book 1 - Bridge &amp; Square</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>34</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>799</integer>
+        <key>Line</key><integer>808</integer>
         <key>Title</key><string>Book 2 - Riverwalk &amp; Lot</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>35</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>923</integer>
+        <key>Line</key><integer>928</integer>
         <key>Title</key><string>Book 3 - Asylum</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>36</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>941</integer>
+        <key>Line</key><integer>946</integer>
         <key>Title</key><string>Book 4 - Court House</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>37</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>984</integer>
+        <key>Line</key><integer>989</integer>
         <key>Title</key><string>Book 5 - Sewer</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>38</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1012</integer>
+        <key>Line</key><integer>1017</integer>
         <key>Title</key><string>Book 6 - Tests</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>39</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1018</integer>
+        <key>Line</key><integer>1023</integer>
         <key>Title</key><string>Volume 7 - South Road</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>40</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1020</integer>
+        <key>Line</key><integer>1025</integer>
         <key>Title</key><string>Book 1 - Avenue &amp; View</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>41</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1054</integer>
+        <key>Line</key><integer>1059</integer>
         <key>Title</key><string>Book 2 - Church &amp; Churchyard</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>42</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1056</integer>
+        <key>Line</key><integer>1061</integer>
         <key>Title</key><string>Book 3 - Open Road</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>43</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1080</integer>
+        <key>Line</key><integer>1085</integer>
         <key>Title</key><string>Book 4 - Tests</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>44</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1089</integer>
+        <key>Line</key><integer>1094</integer>
         <key>Title</key><string>Volume 8 - Mansion</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>45</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1103</integer>
+        <key>Line</key><integer>1108</integer>
         <key>Title</key><string>Book 1 - Front of the House</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>46</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1121</integer>
+        <key>Line</key><integer>1126</integer>
         <key>Title</key><string>Book 2 - Foyer &amp; First</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>47</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1190</integer>
+        <key>Line</key><integer>1195</integer>
         <key>Title</key><string>Book 3 - Kitchen &amp; Pantry</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>48</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1222</integer>
+        <key>Line</key><integer>1227</integer>
         <key>Title</key><string>Book 4 - The Cellar</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>49</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1291</integer>
+        <key>Line</key><integer>1296</integer>
         <key>Title</key><string>Book 5 - Upstairs</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>50</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1363</integer>
+        <key>Line</key><integer>1375</integer>
         <key>Title</key><string>Book 6 - Library &amp; Study</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>51</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1498</integer>
+        <key>Line</key><integer>1510</integer>
         <key>Title</key><string>Book 7 - Corridor &amp; Observatory</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>52</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1554</integer>
+        <key>Line</key><integer>1566</integer>
         <key>Title</key><string>Book 8 - Attic</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>53</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1565</integer>
+        <key>Line</key><integer>1577</integer>
         <key>Title</key><string>Book 9 - Behind the House</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>54</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1622</integer>
+        <key>Line</key><integer>1634</integer>
         <key>Title</key><string>Book 10 - Tests</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>55</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1636</integer>
+        <key>Line</key><integer>1648</integer>
         <key>Title</key><string>Volume 9 - Michael</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>56</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1661</integer>
+        <key>Line</key><integer>1700</integer>
         <key>Title</key><string>Volume 10 - Simple Things</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>57</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1663</integer>
+        <key>Line</key><integer>1702</integer>
         <key>Title</key><string>Book 1 - My Things</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>58</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1675</integer>
+        <key>Line</key><integer>1714</integer>
         <key>Title</key><string>Book 2 - Michael's Things</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>59</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1684</integer>
+        <key>Line</key><integer>1723</integer>
         <key>Title</key><string>Book 3 - Keys</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>60</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1694</integer>
+        <key>Line</key><integer>1733</integer>
         <key>Title</key><string>Volume 11 - Random Rules</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>61</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1751</integer>
+        <key>Line</key><integer>1790</integer>
         <key>Title</key><string>Volume 12 - Hunks of Text</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>62</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1753</integer>
+        <key>Line</key><integer>1792</integer>
         <key>Title</key><string>Book 1 - Daily Intros</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>63</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1762</integer>
+        <key>Line</key><integer>1801</integer>
         <key>Title</key><string>Book 2 - Weird Scenes</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>64</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1780</integer>
+        <key>Line</key><integer>1819</integer>
         <key>Title</key><string>Book 3 - Newspaper Clippings</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>65</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1796</integer>
+        <key>Line</key><integer>1835</integer>
         <key>Title</key><string>Book 4 - Family Info</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>66</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1838</integer>
+        <key>Line</key><integer>1877</integer>
         <key>Title</key><string>Book 5 - Frazer</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>67</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1851</integer>
+        <key>Line</key><integer>1890</integer>
         <key>Title</key><string>Book 6 - Journals</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>68</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1857</integer>
+        <key>Line</key><integer>1896</integer>
         <key>Title</key><string>Volume 13 - Testing</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
@@ -1973,5 +1973,54 @@
         <key>Title</key><string>Chapter - Menu hyperlinks -</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>282</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>--</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>283</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
+        <key>Line</key><integer>5</integer>
+        <key>Title</key><string>Book 1 - Sight</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>284</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
+        <key>Line</key><integer>32</integer>
+        <key>Title</key><string>Book 2 - Familiarity</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>285</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
+        <key>Line</key><integer>34</integer>
+        <key>Title</key><string>Chapter 1 - Basic Familiarity</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>286</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
+        <key>Line</key><integer>46</integer>
+        <key>Title</key><string>Chapter 2 - Subject</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>287</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
+        <key>Line</key><integer>52</integer>
+        <key>Title</key><string>Chapter 3 - Familiarity of Subjects</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>288</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
+        <key>Line</key><integer>56</integer>
+        <key>Title</key><string>Book 3 - Testing commands -</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>1</integer>
     </dict>
 </dict></plist>

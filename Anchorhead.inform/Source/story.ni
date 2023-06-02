@@ -2,11 +2,6 @@
 
 [ There are five levels of headings available--"volume", "book", "part", "chapter" and "section" ]
 
-[ TODO - DAY 2 ]
-[ going down from the Attic before the ladder is pulled ]
-[ text about Michael being gone; free up study at sunset ]
-[ don't lock front door before sleep ]
-
 [ TODO - DAY 3]
 [ prevent repeated scores (Ialdabaoloth, peephole #4) ]
 [ Michael answering questions and getting angry ]
@@ -23,6 +18,7 @@
 	[ That's not a name you're familiar with. Since the family album is filled
 	with names you're not familiar with, you are unable to get very far
 	looking for it. ]
+[ TODO - must lock front door before sleeping? ]
 
 Volume 1 - Meta
 
@@ -33,6 +29,7 @@ Use scoring.
 Include Basic Screen Effects by Emily Short.
 Include Locksmith by Emily Short.
 Include Menus by Dannii Willis.
+Include Epistemology by Eric Eve.
 
 The player is in Office Exterior.
 
@@ -102,6 +99,10 @@ Disrobing is an action applying to nothing. Carry out disrobing:
 			now x is in the location.
 Understand "disrobe" as disrobing.
 
+Oiling is an action applying to one visible thing and requiring light. Check oiling: say "[The noun] does not look like it needs oiling.".
+Understand "oil [something]" as oiling.
+Instead of putting fish oil on something, try oiling the noun instead.
+
 Volume 2 - Scenes
 
 Scenes can be tired. A scene is usually not tired.
@@ -121,8 +122,8 @@ Instead of sleeping:
 		say "This isn't the best place for it.";
 	otherwise if the player is not on the bed:
 		say "You really should get in bed first.";
-	otherwise if the front door is open or the front door is unlocked:
-		say "Something is nagging at you, preventing you from sleeping... suddenly you remember -- you've left the front door unlocked.";
+	otherwise if the front door is open:
+		say "Something is nagging at you, preventing you from sleeping... suddenly you remember -- you've left the front door open.";
 	otherwise:
 		now the day of player is the day of player plus one.
 
@@ -283,7 +284,14 @@ When Close of Day begins:
 
 Instead of going south from the Town Square during Close of Day, say "The courthouse is closed for the day.". Instead of going south from the Asylum Courtyard during Close of Day, say "The asylum is closed for the day.".
 
-[Instead of locking the front door during Close of Day, say "xxx".]
+After going to Foyer for the first time during Close of Day:
+	say "You call out to let Michael know you're home, but no one answers. The house is still, hushed; an eery prickling walks up your back like centipede legs. Michael isn't here, you realize. The house is empty. You are alone..".
+
+Instead of locking keylessly the front door during Close of Day:
+	say "A thought occurs to you: what if Michael comes back and can't get in the house? You'd better leave it unlocked for him.".
+
+Instead of locking the front door with the house key during Close of Day:
+	say "A thought occurs to you: what if Michael comes back and can't get in the house? You'd better leave it unlocked for him.".
 
 Book 4 - Day Three
 
@@ -737,9 +745,9 @@ The thicket is scenery in Bare Foundations. "The thickets are full of painful th
 	otherwise:
 		say "You find nothing else of interest.".
 
-South of Mill Entrance is Bare Foundations. Before going from Mill Entrance, if the room gone to is Bare Foundations, say "The path curves southwest, leading you into an overgrown area behind the mill.".
+South of Mill Entrance is Bare Foundations. Before going from Mill Entrance when the room gone to is Bare Foundations, say "The path curves southwest, leading you into an overgrown area behind the mill.".
 
-Northeast of Bare Foundations is Mill Entrance. Before going from Bare Foundations, if the room gone to is Mill Entrance, say "The path curves north, leading you around to the front of the mill.".
+Northeast of Bare Foundations is Mill Entrance. Before going from Bare Foundations when the room gone to is Mill Entrance, say "The path curves north, leading you around to the front of the mill.".
 
 Book 2 - Lighthouse
 
@@ -809,7 +817,7 @@ The rusty gate is scenery in the Riverwalk. "The rusty gate is open.".
 
 [ Under the Bridge ]
 
-Under the Bridge is a room. "The ponderous stones of Whateley Bridge arch overhead, casting this little concrete ledge into deep shadow. At your feet, the dark waters lap quietly against the stones with a hollow, subterranean sound. Stone steps to the southeast lead back up to street level." Instead of going nowhere from Under the Bridge, say "You can return to the riverwalk by going up the stairs to the southeast, or you can go through the small, rusty door to the south." Under the Bridge is down from the Riverwalk. North from Riverwalk is southeast from Under the Bridge. Before going to Under the Bridge, if the room gone from is Riverwalk: say "You pass through the gate and down the stone steps, which curve northwest as they lead down to the edge of the river.".
+Under the Bridge is a room. "The ponderous stones of Whateley Bridge arch overhead, casting this little concrete ledge into deep shadow. At your feet, the dark waters lap quietly against the stones with a hollow, subterranean sound. Stone steps to the southeast lead back up to street level." Instead of going nowhere from Under the Bridge, say "You can return to the riverwalk by going up the stairs to the southeast, or you can go through the small, rusty door to the south." Under the Bridge is down from the Riverwalk. North from Riverwalk is southeast from Under the Bridge. Before going to Under the Bridge when the room gone from is Riverwalk: say "You pass through the gate and down the stone steps, which curve northwest as they lead down to the edge of the river.".
 
 The steps are backdrop. The steps are in the Riverwalk and Under the Bridge. "[if the player is in Riverwalk]The stairs lead down to the banks of the river[otherwise]The stairs lead back up to the riverwalk[end if].".
 
@@ -1085,7 +1093,7 @@ Test notice with "sw / nw / se / nw / x notice / take notice / x it".
 
 Volume 8 - Mansion
 
-Interior Rooms is a region. Dining Room, Kitchen, Back Hall, Gallery, Sitting Room, Upstairs Hallway, Kid's Room, House Library, Study and Attic are in Interior Rooms.
+Interior Rooms is a region. Dining Room, Kitchen, Back Hall, Gallery, Sitting Room, Upstairs Hallway, Kid's Room, House Library, Study, Attic, Corridor1, Corridor2, Corridor3, Corridor4, and Corridor5 are in Interior Rooms.
 
 Suite is a region. Master Bedroom and Bathroom are in Suite.
 
@@ -1320,17 +1328,24 @@ The Bathroom is a room. "A small chamber of cold, white tile and floral-print wa
 
 [ Upstairs Hall ]
 
-Upstairs Hall is a room. "The shuttered window at the end of the hall throws a gloomy rectangle of light onto the bare wooden floor. Doorways lead north and south.". The Upstairs Hall is east of Upstairs Landing. Before going up from Upstairs Hall:
-	if the ladder is nowhere, say "You can't go that way." instead;
-	otherwise say "The ancient rungs creak alarmingly as you ascend.".
+Upstairs Hall is a room. "The shuttered window at the end of the hall throws a gloomy rectangle of light onto the bare wooden floor. Doorways lead north and south.". The Upstairs Hall is east of Upstairs Landing. 
 
-The cord is a thing in Upstairs Hall. "There is a cord dangling in mid-air here, right about level with your face." It is fixed in place. The description of the cord is "The cord is about four feet long with a little wooden bob on the end. It appears to be attached to a trap door in the ceiling.". Instead of pushing the cord, say "You bat the cord lightly and watch it swing back and forth for a while.". Instead of pulling the cord:
-	say "With a rusty, ratcheting groan and a brief shower of dust, the trap door swings down and folds
+The attic ladder is a closed unopenable door. The initial appearance of the attic ladder is "[if the player is in Upstairs Hall]There is a cord dangling in mid-air here, right about level with your face[otherwise]An odd contraption resembling a complex stack of wooden slats sits in the middle of the floor[end if].". The attic ladder is up from Upstairs Hall and down from Attic. Instead of opening the attic ladder: try pulling the cord instead.
+
+Instead of pushing the attic ladder when the location is the Attic for the first time:
+	say "You bear down on the contraption, and suddenly it sinks downward, almost causing you to tumble. With a ratcheting shriek of rusted springs, the contraption unfolds into a rickety ladder, dropping down into the hallway below.";
+	now the attic ladder is open.
+
+Report going up from Upstairs Hall:
+	say "The ancient rungs creak alarmingly as you ascend.";
+	continue the action.
+
+The cord is scenery in Upstairs Hall. It is fixed in place. The description of the cord is "The cord is about four feet long with a little wooden bob on the end. It appears to be attached to a trap door in the ceiling.". Instead of pushing the cord, say "You bat the cord lightly and watch it swing back and forth for a while.". Instead of pulling the cord:
+	say "You pull the cord. With a rusty, ratcheting groan and a brief shower of dust, the trap door swings down and folds
 back, revealing a rickety wooden ladder leading up into darkness.";
 	now the cord is nowhere;
-	now the ladder is in Upstairs Hall.
-
-The attic ladder is a thing. "A rickety wooden ladder stands here, descending from a three-foot by three-foot square of darkness in the ceiling." The attic ladder is fixed in place.
+	now the initial appearance of the attic ladder is "[if the player is in Upstairs Hall]A rickety wooden ladder stands here, descending from a three-foot by three-foot square of darkness in the ceiling[otherwise]A rickety wooden ladder descends to the hallway below[end if].";
+	now the attic ladder is open.
 
 [ Kid's Room ]
 
@@ -1494,13 +1509,13 @@ fireplace. ]
 
 Book 7 - Corridor & Observatory
 
-Corridor1 is a room with printed name "Narrow Corridor 1". "The walls are bare wooden slats, patched with crumbling plaster and spiked with bent, rusted nails. The passage, no more than two feet wide at its widest point, bends and twist at confusing angles, making it hard to tell which direction you're heading in.". 
+Corridor1 is a dark room with printed name "Narrow Corridor 1". "The walls are bare wooden slats, patched with crumbling plaster and spiked with bent, rusted nails. The passage, no more than two feet wide at its widest point, bends and twist at confusing angles, making it hard to tell which direction you're heading in.". 
 Northwest of Corridor1 is the Study. Southeast of the Study is nowhere.
 West of Corridor1 is southwest of Corridor2.
 Southwest of Corridor1 is south of Corridor3.
 Northeast of Corridor1 is northwest of Corridor4.
 
-Corridor2 is a room with printed name "Narrow Corridor 2". "The walls are bare wooden slats, patched with crumbling plaster and spiked with bent, rusted nails. The passage, no more than two feet wide at its widest point, bends and twist at confusing angles, making it hard to tell which direction you're heading in.[paragraph break][if the Kid's Room is lit]A thin beam of light slants through the dusty air, coming from a small hole half way up one wall[otherwise]There is a small hole in one of the slats, about halfway up the wall[end if].".
+Corridor2 is a dark room with printed name "Narrow Corridor 2". "The walls are bare wooden slats, patched with crumbling plaster and spiked with bent, rusted nails. The passage, no more than two feet wide at its widest point, bends and twist at confusing angles, making it hard to tell which direction you're heading in.[paragraph break][if the Kid's Room is lit]A thin beam of light slants through the dusty air, coming from a small hole half way up one wall[otherwise]There is a small hole in one of the slats, about halfway up the wall[end if].".
 East of Corridor2 is north of Corridor3.
 Northeast of Corridor2 is south of Corridor4.
 Northwest of Corridor2 is west of Corridor5.
@@ -1509,14 +1524,14 @@ Hole2 is scenery in Corridor2. "It's almost big enough to put your finger throug
 	say "Standing on tiptoe and placing your eye up to the hole, you see the children's bedroom. Through some strange trick of the angle, you appear to be looking straight down at the bed from the middle of the ceiling.[if the goal of Michael is wander][paragraph break]Suddenly Michael walks into the bedroom. He moves slowly, looking around and lightly touching things, as if visiting old memories. He walks over to the crib and spends some minutes staring down into its empty blankets, after which he sighs. Then he turns and adjusts the coverlet on the child's bed.[paragraph break]He walks over to the vanity and picks up the jewelry box. Carefully, he opens it and, finding it empty, sets it down again with a soft curse. He looks around the room suspiciously, as if expecting to find the culprit hiding in a corner somewhere. For a moment Michael simply stands there aimlessly, compulsively rubbing his forehead; then he stalks out of the room and is gone.
 [end if]".
 
-Corridor3 is a room with printed name "Narrow Corridor 3". "The walls are bare wooden slats, patched with crumbling plaster and spiked with bent, rusted nails. The passage, no more than two feet wide at its widest point, bends and twist at confusing angles, making it hard to tell which direction you're heading in.[paragraph break][if the Gallery is lit]A thin beam of light slants through the dusty air, coming from a small hole half way up one wall[otherwise]There is a small hole in one of the slats, about halfway up the wall[end if].".
+Corridor3 is a dark room with printed name "Narrow Corridor 3". "The walls are bare wooden slats, patched with crumbling plaster and spiked with bent, rusted nails. The passage, no more than two feet wide at its widest point, bends and twist at confusing angles, making it hard to tell which direction you're heading in.[paragraph break][if the Gallery is lit]A thin beam of light slants through the dusty air, coming from a small hole half way up one wall[otherwise]There is a small hole in one of the slats, about halfway up the wall[end if].".
 Northwest of Corridor3 is Corridor4. Sourtheast of Corridor4 is nowhere.
 Southeast of Corridor3 is east of Corridor5.
 
 Hole3 is scenery in Corridor3. "It's almost big enough to put your finger through." Report looking through hole3:
 	say "Standing on tiptoe and placing your eye up to the hole, you see the sitting room, from a vantage high up on the wall. It occurs to you that you might well be looking directly through the eyes of the man in the portrait hanging over the fireplace.[if the goal of Michael is wander][paragraph break]At that moment, Michael wanders into the sitting room, muttering something incoherent. He looks around blankly, lost, as if he had come into the room in order to do something only in the next instant to forget what it was. Then his eyes fall on you, and he smiles.[paragraph break]You nearly jerk away from the spyhole, heart pounding wildly, when it suddenly occurs to you that he's not looking at you at all; he's looking at the portrait through which you are peering.[paragraph break]Michael regards the portrait with a strange air of familiarity. He gazes into its eyes (and also, unbeknownst to him, your own eyes) the way one might appraise an old friend one hasn't seen for some time. His expression is deferential, admiring, and... something else; you can't quite put your finger on at first, but as your husband continues to gaze rhapsodically at the terrible portrait, a sickening realization strikes you.[paragraph break]The expression is vanity. Ugly, self-absorbed vanity. Your husband is staring at this portrait the way he might preen himself in a mirror.[paragraph break]Michael brushes his fingers back through his hair and walks out of the room, chuckling softly to himself.[end if]".
 
-Corridor4 is a room with printed name "Narrow Corridor 4". "The walls are bare wooden slats, patched with crumbling plaster and spiked with bent, rusted nails. The passage, no more than two feet wide at its widest point, bends and twist at confusing angles, making it hard to tell which direction you're heading in.[paragraph break][if the Wine Cellar is lit]A thin beam of light slants through the dusty air, coming from a small hole half way up one wall[otherwise]There is a small hole in one of the slats, about halfway up the wall[end if].".
+Corridor4 is a dark room with printed name "Narrow Corridor 4". "The walls are bare wooden slats, patched with crumbling plaster and spiked with bent, rusted nails. The passage, no more than two feet wide at its widest point, bends and twist at confusing angles, making it hard to tell which direction you're heading in.[paragraph break][if the Wine Cellar is lit]A thin beam of light slants through the dusty air, coming from a small hole half way up one wall[otherwise]There is a small hole in one of the slats, about halfway up the wall[end if].".
 Southwest of Corridor4 is Corridor5. Northeast of Corridor5 is nowhere.
 
 Hole4 is scenery in Corridor4. "It's almost big enough to put your finger through." Report looking through hole4:
@@ -1525,7 +1540,7 @@ Hole4 is scenery in Corridor4. "It's almost big enough to put your finger throug
 		say "Just as you are about to move away from the spyhole, you hear footsteps on a stone floor. A light shines in through a doorway, and a moment later Michael skulks into the room, which you now realize is the wine cellar, seen from down low in a corner, near the floor.[paragraph break]Halfway across the room he stops, darts a suspicious glance over his shoulder, and shines his light into every corner, as though searching for potential spies. At one point he looks straight at you, and you nearly recoil, alarmed at the sight of his crazed, red-rimmed eyes. He does not spot you, however, and in a moment he moves on.[paragraph break]He walks over to the rack at the north end of the room, and does something with the bottles -- you can't quite see, because his back is toward you. Then there is a click and a heavy grinding sound, and the entire northern wall swings back, revealing a hidden passage![paragraph break]The room is filled for a moment with a wild, wretched keening, like a cold wind blowing through an empty chasm. With one last, wary look behind him, Michael steps through the portal. The light disappears, the wall swings back with another grinding sound, and then all is quiet.";
 		increase the score by 2.
 
-Corridor5 is a room with printed name "Narrow Corridor 5". "The walls are bare wooden slats, patched with crumbling plaster and spiked with bent, rusted nails. The passage, no more than two feet wide at its widest point, bends and twist at confusing angles, making it hard to tell which direction you're heading in.". Southeast of Corridor5 is the Observatory. Northwest of the Observatory is nowhere.
+Corridor5 is a dark room with printed name "Narrow Corridor 5". "The walls are bare wooden slats, patched with crumbling plaster and spiked with bent, rusted nails. The passage, no more than two feet wide at its widest point, bends and twist at confusing angles, making it hard to tell which direction you're heading in.". Southeast of Corridor5 is the Observatory. Northwest of the Observatory is nowhere.
 
 The Observatory is a room. "You are in a small, enclosed cupola situated, by the look of the view through the dingy skylight over your head, on top of the roof of the house. The walls are covered with astrological and astronomical charts with equations and diagrams scribbled across them in crabbed, stilted handwriting. The only exit seems to be an oddly-angled corridor to the southeast.[paragraph break]Dominating the center of the room is a large mounted telescope, pointed almost straight up through the skylight.". The Crawlspace is southeast from the Observatory.
 
@@ -1550,7 +1565,7 @@ Test obs with "go3 / stand / take all / s / e / n / e / turn spheres / sw / w / 
 
 Book 8 - Attic
 
-The Attic is a room. "It's much cooler up here than in the rest of the house, and you find it hard to suppress a shiver. Grotesque, looming shadows crawl across the low, slanted ceiling, and the dust hangs thick and motionless in the air. To the west the ceiling dips even lower until the space beneath leaves hardly room enough to crawl, while to the north stands a wooden door, draped in shadows and half-hidden by the slanting eaves.". The Attic is up from Upstairs Hall.
+The Attic is a room. "It's much cooler up here than in the rest of the house, and you find it hard to suppress a shiver. Grotesque, looming shadows crawl across the low, slanted ceiling, and the dust hangs thick and motionless in the air. To the west the ceiling dips even lower until the space beneath leaves hardly room enough to crawl, while to the north stands a wooden door, draped in shadows and half-hidden by the slanting eaves.".
 
 The wood door is scenery and a door. The description of the wood door is "It's an ordinary wooden door, unremarkable except for the antique metal keyplate. Beneath the door, a thin line of faint light is barely visible.". Instead of looking under the door:
 	say "Dropping to your hands and knees and placing your eye close to the crack beneath the door, you can make out a dim light coming from somewhere up above, and a great deal of dust on the floorboards.". The wood door is north from the Attic.
@@ -1636,20 +1651,47 @@ Goal is a kind of value. Goals are ignore, follow, sleep, shower, write, wander.
 
 Michael is a man with printed name "Michael". Understand "husband" and "Michael" as Michael. Michael has a goal. The goal of Michael is ignore. Michael can be greeted. Michael is not greeted. The initial appearance of Michael is "[if Michael is not greeted]Peering through the shadows, you spot your husband sitting at one of the reading desks, absorbed in some sort of weighty tome and clearly oblivious to the time.[otherwise if the goal of Michael is sleep]Michael is curled up in bed, sound asleep.[otherwise]Michael is here.[end if]". The description of Michael is "Tall and a bit on the skinny side, in an endearingly awkward sort of way; a serious, thoughtful face topped with an unruly tangle of brown hair; deep brown eyes framed by wire-rimmed glasses -- yep, that's the man you married, all right.[paragraph break][if the goal of Michael is ignore]At the moment, Michael is largely absorbed in his reading, and is paying little attention to you.[otherwise]Michael looks at you expectantly, waiting for you to lead the way.[end if]".
 
-Table of Michael's Knowledge
+Table of Michael's Day 1 Knowledge
 topic	reply
 "family"	"'I don't know too much about them, except for what the lawyers told us about Edward, the one who just killed himself. And even that isn't much.'"
 "verlac"	"'I'd never heard of the guy before; I didn't even know I had a [']third cousin, twice removed['],' says Michael. 'Kind of creepy, though, don't you think? He went crazy, you know, killed his whole family, then killed himself in his cell up at Danvers. Just terrible. Still, we got the house and I got a professorship, so you won't hear me complaining.'"
+"town"	"'It takes a little getting used to, I know, but I think we can be happy here.'"
+"informhead"	"'It takes a little getting used to, I know, but I think we can be happy here.'"
 "book"	"Michael casually places his hand on the book, obscuring its title. 'Oh, just doing a bit of research. Musty old stuff.'"
 "keys"	"'The real estate agent is supposed to be holding them at her office,' he says."
 "house"	"'The Verlac family has been living in that old place for generations; they're an integral part of the history of this whole region. It's really quite interesting.'"
-"town"	"'It takes a little getting used to, I know, but I think we can be happy here.'"
-"informhead"	"'It takes a little getting used to, I know, but I think we can be happy here.'"
 "library"	"Michael looks around. 'Yeah, it's nice, isn't it? They have rare books you wouldn't believe. You could get a lot of research done here.'"
 "miskaton"	"'Isn't it wonderful? A full professorship! At this rate I'll have tenure in just a few years. I think I'm really going to like teaching here.'"
 
+Table of Michael's Day 3 Knowledge
+topic	reply
+"family"	"Michael visibly shudders when you mention the name. 'I'm sick of hearing about them,' he mutters."
+"verlac"	"Michael visibly shudders when you mention the name. 'I'm sick of hearing about them,' he mutters."
+"edward"	"Michael suddenly claps his hands over his ears. 'Shut up about that guy, will you?' he shouts. 'I am so sick of hearing about Edward Verlac; can we PLEASE talk about something less fucking depressing? The guy is dead and gone and so are his poor fucking wife and his poor fucking kids; it's ancient history! I am NOT Edw-- '[paragraph break]He breaks off abruptly and looks away. Your heart skips a beat, however, because you realize what he was about to say:[paragraph break]'I am not Edward Verlac.'"
+"william"	"Michael dismisses you with an irritable wave of his hand. 'You shouldn't believe everything an old drunk tells you,' he says."
+"mordecai"	"Michael mutters noncommittally."
+"anna"	"Michael mutters noncommittally."
+"julia"	"Michael gives you a pained look. 'Can we please talk about something else? They're dead now, and it's terrible, but nothing can bring them back. Okay?'"
+"wilhelm"	"Michael mutters noncommittally."
+"elijah"	"Michael mutters noncommittally."
+"eustacia"	"Michael mutters noncommittally."
+"croseus"	"Michael stops and stares at you with an odd, distrustful expression. 'Where did you hear that name?' he croaks. 'I dreamed that name.' He rubs his forehead again. 'I dreamed it...'"
+"town"	"Michael rounds on you irritably. 'Look, this is our home now, goddammit, whether you like it or not; we've made the decision and we'll have to stick with it. If you don't like living here, maybe you should move out!'"
+"informhead"	"Michael rounds on you irritably. 'Look, this is our home now, goddammit, whether you like it or not; we've made the decision and we'll have to stick with it. If you don't like living here, maybe you should move out!'"
+"book"	"'I told you,' snaps Michael, 'I was just doing some research, is all. I really don't feel like talking about it now.'"
+"house"	"Michael rounds on you irritably. 'Look, this is our home now, goddammit, whether you like it or not; we've made the decision and we'll have to stick with it. If you don't like living here, maybe you should move out!'"
+"feet"	"Michael stops and looks down at his feet. For a moment he looks genuinely dumbfounded. 'I... I, uh... I don't know. I have no idea how that got there.'[paragraph break]He spreads his hands and looks the other way. Suddenly you realize: he is frightened. He is hiding something from you, certainly, but he's hiding it because he is frightened of it. Maybe he doesn't himself understand what happened to him last night... or where it happened to him."
+
+[
+Michael comes awake with a jerk and a hoarse shout. For a moment or two he only stares about
+blindly, as if unsure of where he is and all but unaware of your presence. Then, with a grunt of
+surprise, he seems to come to his senses and painstakingly crawls out of bed.
+
+Michael gives you a bleary, irritated look. "Shouldn't you put some clothes on?" he mutters.
+]
+
 Instead of asking Michael about:
-	repeat through Table of Michael's Knowledge:
+	repeat through Table of Michael's Day 1 Knowledge:
 		if the topic understood includes topic entry:
 			say “[reply entry].”;
 			rule succeeds;
