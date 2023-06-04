@@ -1,0 +1,15 @@
+"old-man"	"Getting the old man to talk"	2
+"find-amulet"	"Getting the amulet"	5
+"give-amulet"	"Giving away the amulet"	5
+"open-puzzle"	"Getting into the puzzle box"	2
+"find-torn"	"Finding the torn journal"	2
+"find-soggy"	"Finding the soggy pages"	2
+"find-safe"	"Finding the safe"	1
+"open-safe"	"Opening the safe"	2
+"snoop-frazer"	"Finding out what Michael was reading"	2
+"find-frazer"	"Getting the book from the librarian"	2
+"open-laptop"	"Getting into the laptop"	2
+"snoop-cellar"	"Spying on Michael in the Cellar"	2
+"darkness"	"Viewing the coming darkness"	5
+"iron-key"	"Getting the crypt key"	1
+

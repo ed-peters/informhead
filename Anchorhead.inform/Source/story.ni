@@ -3,7 +3,6 @@
 [ There are five levels of headings available--"volume", "book", "part", "chapter" and "section" ]
 
 [ TODO - DAY 3]
-[ prevent repeated scores (Ialdabaoloth, peephole #4) ]
 [ Michael answering questions and getting angry ]
 [ Michael wandering around the house ]
 
@@ -19,6 +18,7 @@
 	with names you're not familiar with, you are unable to get very far
 	looking for it. ]
 [ TODO - must lock front door before sleeping? ]
+[ TODO - clean up closing things for the day ]
 
 Volume 1 - Meta
 
@@ -103,17 +103,53 @@ Oiling is an action applying to one visible thing and requiring light. Check oil
 Understand "oil [something]" as oiling.
 Instead of putting fish oil on something, try oiling the noun instead.
 
+Book 3 - Scoring
+
+Table of Accomplishments
+code	action	points	time (number)
+"find-keys"	"Finding the house key"	2
+"find-name"	"Remembering the family name"	2
+"find-michael"	"Retrieving your husband"	2
+"old-man"	"Getting the old man to talk"	2
+"find-amulet"	"Getting the amulet"	5
+"give-amulet"	"Giving away the amulet"	5
+"open-puzzle"	"Getting into the puzzle box"	2
+"find-torn"	"Finding the torn journal"	2
+"find-soggy"	"Finding the soggy pages"	2
+"find-safe"	"Finding the safe"	1
+"open-safe"	"Opening the safe"	2
+"snoop-frazer"	"Finding out what Michael was reading"	2
+"find-frazer"	"Getting the book from the librarian"	2
+"open-laptop"	"Getting into the laptop"	2
+"spying"	"Spying on Michael"	2
+"view-darkness"	"Viewing the coming darkness"	5
+"find-iron"	"Getting the crypt key"	1
+
+To record (T - text) as accomplished:
+	choose row with a code of T in the Table of Accomplishments;
+	if there is no time entry:
+		now time entry is the turn count;
+		increase the score by the points entry. 
+
+Requesting the full score is an action out of world. Carry out requesting the full score:
+	if the score is 0, say "You have achieved nothing towards supper." instead;
+	repeat through the Table of Accomplishments in reverse time order:
+		say "[time entry]: [action entry] ([points entry])."
+
+Understand "full" or "full score" as requesting the full score.
+
+
 Volume 2 - Scenes
 
 Scenes can be tired. A scene is usually not tired.
+
+Book 1 - Sleeping
 
 To decide if sleep is prevented:
 	repeat with S running through scenes:
 		if S is happening and S is tired:
 			decide no;
 	decide yes.
-
-Book 1 - Sleeping
 
 Instead of sleeping:
 	if sleep is prevented:
@@ -163,7 +199,7 @@ Instead of asking Michael about during Michael Reads, try saying hello to Michae
 		if the noun is the house key or the noun is the cellar key:
 			say "'Great!' says Michael. 'You hang on to that. Just a second, I'll put this back.' He takes the book up to the circulation desk and hands it to the librarian. 'Okay then,' he says, returning, 'let's go.'[paragraph break]Michael suddenly smacks his forehead. 'Oh, crap, I forgot to tell you. The car broke down.' He spreads his hands. 'I don't know what happened to it; one second I'm parking outside, the next second it dies and I can't get it started again. I called a tow truck, but the nearest garage is up in Arkham. They picked it up but won't be able to look at it until next week at the earliest. Anyway, it looks like we'll have to walk back to the house.' He offers you a lame smile. 'You can hold the umbrella.'";
 			now the goal of Michael is follow;
-			increase the score by 2;
+			record "find-michael" as accomplished;
 		otherwise:
 			try saying hello to Michael;
 	otherwise:
@@ -428,7 +464,7 @@ Instead of consulting the cabinet about:
 			say "Strange; the file on the Verlac property has been cleaned out. Title, deed, all the papers, all of it gone. There is, however, a set of keys tucked down in the hanging folder. You quickly pocket them.";
 			now the player has the house key;
 			now the player has the cellar key;
-			increase the score by 2;
+			record "find-keys" as accomplished;
 		otherwise:
 			say "You've already perused that file once.";
 	otherwise:
@@ -470,7 +506,7 @@ The machine beeps.";
 	if the answering machine is pristine:
 		say "[line break]A brief shudder ripples up your back. You remember now, 'Verlac' is the name of this branch of
 Michael's family.";
-		increase the score by 2;
+		record "find-name" as accomplished;
 	now the answering machine is played.
 
 The delete button is part of the answering machine. The description of the delete button is "It's just an ordinary-looking button labeled 'DELETE'." Instead of pushing the delete button: say "The machine beeps."; now the answering machine is deleted.
@@ -577,7 +613,7 @@ After asking the proprietor about:
 		if the amulet is in the display case:
 			say "The proprietor reaches in through the back of the case and takes out the amulet. It spins slowly as he holds it up to the light.[paragraph break]'I think, perhaps, that he eventually found different. And I think, perhaps, that you will, too.' He leans forward and, before you can react, slips the leather thong around your neck. 'But you won't make the same mistake, will you, Miss? No. You go on and keep that, now. My treat. You may find it useful soon.'";
 			try the player wearing the amulet;
-			increase the score by 5;
+			record "find-amulet" as accomplished;
 		otherwise:
 			say "'We've already discussed that now, haven't we?' He winks slyly at you.";
 	otherwise if the topic understood includes "tarot":
@@ -589,7 +625,7 @@ Before giving the puzzle box to the proprietor for the first time:
 	say "The proprietor takes the puzzle box and turns it over in his hands carefully. 'Now, this is a tricky one,' he says. 'They don't make them like this anymore. Frightfully difficult, unless you know the catch of course.' His fingers flicker dexterously over the box, sliding a panel here, pressing a corner in there. Suddenly the lid pops open with a faint snick.[paragraph break]'And there you have it,' he says. 'A present for you.' He hands it back to you.";
 	now the puzzle box is open;
 	now the player holds the puzzle box;
-	increase the score by 2 instead.
+	record "open-puzzle" as accomplished.
 
 Book 5 - University
 
@@ -647,7 +683,7 @@ Instead of asking the librarian about:
 			now the player is holding Frazer;
 			now the librarian is nowhere;
 			now the librarian is not amenable;
-			increase the score by 2;
+			record "find-frazer" as accomplished;
 		otherwise:
 			say "The librarian says nothing. Slowly, very slowly, she looks you up and down, and then, just as slowly, she turns to look at the sign posted over the counter. Finally, agonizingly slowly, she turns back to you, and stares at you with a vague, unblinking air of disapproval.";
 	otherwise:
@@ -850,7 +886,7 @@ Instead of giving the flask to the old man:
 		now the printed name of the flask is "flask (which is empty)";
 		now the flask is in the Vacant Lot;
 		now the old man is not thirsty;
-		increase the score by 2;
+		record "old-man" as accomplished;
 	otherwise:
 		say "His eyes burning with greed, the old man snatches the flask from your hand and tips it up into his waiting mouth. Then, sputtering angrily as he realizes there is no whiskey in it, he hurls the flask across the lot and glares at you with something approaching real hatred.";
 		now the flask is in the Vacant Lot.
@@ -901,7 +937,7 @@ longer than you thought, and it will be dark soon.[paragraph break]";
 		now the old man is holding the amulet;
 		now the player is holding the small copper key;
 		now the old man is nowhere;
-		increase the score by 5.
+		record "give-amulet" as accomplished.
 
 Instead of showing the animal's skull to the old man:
 	if the state of the old man is 1:
@@ -1186,7 +1222,7 @@ The velvet lining is scenery in the cupboard. "The lining is soft, dusky burgund
 	if the torn journal is nowhere:
 		say "You pull the lining back a bit further and discover a thin, palm-sized journal tucked underneath it. Intrigued, you pull the little book free.";
 		now the player has the torn journal;
-		increase the score by two;
+		record "find-torn" as accomplished;
 	otherwise:
 		say "No need to vandalize the place further.".
 
@@ -1370,7 +1406,7 @@ paneling.";
 
 The hole is a fixed in place container. "The bed has been pushed away from the wall slightly, revealing a ragged hole in the paneling.". The description of the hole is "It's about six inches wide, and looks like it was made by by someone breaking in the wall with a hammer and pulling chunks of paneling out with their bare hands".
 
-The soggy pages are a thing in the hole with printed name "bundle of soggy pages". The description of the soggy pages is "It appears to have been someone's diary. There must have been a leak at some time behind the wall where it was hidden, because most of the pages are water-logged and completely illegible. However, portions of a few entries remain untouched.". The printing of the soggy pages is "[the soggy text]". After taking the soggy pages for the first time, increase the score by 2.
+The soggy pages are a thing in the hole with printed name "bundle of soggy pages". The description of the soggy pages is "It appears to have been someone's diary. There must have been a leak at some time behind the wall where it was hidden, because most of the pages are water-logged and completely illegible. However, portions of a few entries remain untouched.". The printing of the soggy pages is "[the soggy text]". After taking the soggy pages for the first time, record "find-soggy" as accomplished.
 
 Book 6 - Library & Study
 
@@ -1403,7 +1439,7 @@ Instead of taking the tales for the first time:
 	say "The book sticks stubbornly at first, and, thinking that it must be tightly wedged in between the encyclopediae, you give it a fierce jerk. Suddenly, the book slides halfway out, then pops back in with a loud 'snick'.[paragraph break]Amazingly, a section of the bookshelf slides back, revealing a hidden safe.";
 	now the safe is in the House Library;
 	now the tales are handled;
-	increase the score by 1;
+	record "find-safe" as accomplished.
 	
 Instead of taking the tales:
 	if the safe is nowhere:
@@ -1437,9 +1473,7 @@ The dial is a part of the safe. It is fixed in place. The dial has a number call
 		otherwise if dvalue of the dial is m3 of the safe and the stage of the safe is 2:
 			say "[line break]With a hollow thunk, the safe suddenly swings open.";
 			now the safe is open;
-			if the safe is not handled:
-				increase the score by 2;
-				now the safe is handled;
+			record "open-safe" as accomplished;
 		otherwise:
 			now the stage of the safe is 0.
 
@@ -1477,7 +1511,7 @@ Instead of typing:
 				say "The passcode window disappears and the screen suddenly fills with text, apparently the last thing Michael was working on before he got up and left.";
 				now the printing of the screen is "Michael has evidently been writing something, but it's not a story; it looks more like some kind of journal entry.[paragraph break][italic type]I cannot sleep.[paragraph break]Or perhaps I should say: I must not sleep, since I am perfectly capable of sleep -- in fact, lately sleep has come to me more easily, more quickly, and more insidiously than it ever has before. But I don't want to sleep.[paragraph break]I have been hoping that the terrible dreams would prove to be stress-related, that they would fade once the move was behind us and we had finally settled in -- but that has not turned out to be the case. They're stronger than ever. Red-rimmed eyes pursuing me through strange corridors, and the voice -- the whisperer who tells me I am not who I am. The whisperer tells me secrets of this house, secrets of those who lived here -- they are my blood, and he tells me he always returns to his blood. He tells me of secret keys and combinations; I don't know what they open yet but I have an idea -- [paragraph break]Tomorrow I must go down to the cellar. I must see if the things revealed to me in that terrible book are true.[paragraph break]I know she is worried about me. I want to tell her, but --[roman type][paragraph break]The entry ends there, unfinished.";
 				now the laptop is unlocked;
-				increase the score by 2;
+				record "open-laptop" as accomplished;
 			otherwise:
 				say "The computer beeps at you. 'ACCESS DENIED'. Frustrated, you wonder what Michael could have set his password to. An important date, maybe?";
 	otherwise:
@@ -1538,7 +1572,7 @@ Hole4 is scenery in Corridor4. "It's almost big enough to put your finger throug
 	say "Standing on tiptoe and placing your eye up to the hole, you see only darkness.";
 	if the goal of Michael is wander:
 		say "Just as you are about to move away from the spyhole, you hear footsteps on a stone floor. A light shines in through a doorway, and a moment later Michael skulks into the room, which you now realize is the wine cellar, seen from down low in a corner, near the floor.[paragraph break]Halfway across the room he stops, darts a suspicious glance over his shoulder, and shines his light into every corner, as though searching for potential spies. At one point he looks straight at you, and you nearly recoil, alarmed at the sight of his crazed, red-rimmed eyes. He does not spot you, however, and in a moment he moves on.[paragraph break]He walks over to the rack at the north end of the room, and does something with the bottles -- you can't quite see, because his back is toward you. Then there is a click and a heavy grinding sound, and the entire northern wall swings back, revealing a hidden passage![paragraph break]The room is filled for a moment with a wild, wretched keening, like a cold wind blowing through an empty chasm. With one last, wary look behind him, Michael steps through the portal. The light disappears, the wall swings back with another grinding sound, and then all is quiet.";
-		increase the score by 2.
+		record "spying" as accomplished.
 
 Corridor5 is a dark room with printed name "Narrow Corridor 5". "The walls are bare wooden slats, patched with crumbling plaster and spiked with bent, rusted nails. The passage, no more than two feet wide at its widest point, bends and twist at confusing angles, making it hard to tell which direction you're heading in.". Southeast of Corridor5 is the Observatory. Northwest of the Observatory is nowhere.
 
@@ -1557,7 +1591,7 @@ Instead of searching the telescope:
 		say "For a few moments all you can see is a murky, swirling blackness; then patterns of colors begin to emerge, like the rainbow sheen of oil on water. The black disk grows translucent, stars become visible through the swirling haze, and then...[paragraph break]Dear Christ.[paragraph break]Dear Christ, you can see it.[paragraph break]The comet, roaring silently through the endless void, streaking toward Earth, and it's alive, this thing that is coming is ALIVE, tendrils that must be hundreds, thousands of miles long streaming before it, reaching out to grasp and strangle and devour whole worlds, and it is coming here, it is coming to Earth, and its great, lidless, red-rimmed eye rolls over in a vast lake of vitreous fluid, and it[paragraph break]      looks[paragraph break]          at[paragraph break]                            you[paragraph break][paragraph break][paragraph break][paragraph break][paragraph break]";
 		pause the game;
 		say "[paragraph break][paragraph break][paragraph break]...you wake up some time later, shaking your head. You're not sure what, exactly, you just witnessed; whether it was a genuine astronomical phenomenon, or a hallucination, or the actual form of some Dark God from the Outer Reaches, come to devour the world. You're not even entirely sure you remember what it looked like. The only thing you can clearly recall is a single name, pulsing in your brain like a bruise:[paragraph break]'Ialdabaoloth'.[paragraph break]And that's all.";
-		increase the score by 5;
+		record "view-darkness" as accomplished;
 	otherwise:
 		say "The swirling hole in the sky fills the telescope's field of view, turning silently as you watch. The upper depths of the maelstrom are too dark to see, though occasionally you make out sparks of green energy as they arc across the gap.".
 
@@ -1726,7 +1760,7 @@ The house key is a thing. The description of the house key is "It's an ordinary-
 
 The cellar key is a thing. The description of the cellar key is "It's an ordinary-looking key. The word 'cellar' is written on a tiny piece of tape affixed to the key's tab." The cellar key unlocks the cdoor.
 
-The iron key is a thing with printed name "old-fashioned iron key". The description of the iron key is "It's an old key, the kind with a round barrel about a quarter-inch in diameter and flat, square teeth.". After taking the iron key for the first time, increase the score by 1. The iron key unlocks the crypt door.
+The iron key is a thing with printed name "old-fashioned iron key". The description of the iron key is "It's an old key, the kind with a round barrel about a quarter-inch in diameter and flat, square teeth.". After taking the iron key for the first time, record "find-iron" as accomplished. The iron key unlocks the crypt door.
 
 The newspaper is a thing. "A damp newspaper lies on the curb, fluttering slightly in the wind." The description of the newspaper is "It's the 'Weekly Arkham Herald'. Anchorhead, apparently, is not large enough to warrant its own newspaper.". Instead of searching the newspaper, say "The front page story is about Jeffrey Greer, 8 years old, who was abducted from his home at #11 Mill Town Road last night. Little Jeffrey is the latest victim in a series of abductions that stretches back for years, one every six months or so, and that authorities believe is the work of a single perpetrator. Local police had hoped to prove that Edward Verlac had been behind the kidnappings, but were unable to obtain a confession or any hard proof. Edward Verlac was convicted of murdering his wife and two daughters, one of whom was 15 months old, in January of this year; he was found not guilty by reason of insanity and incarcerated in Danvers Asylum, where he remained until committing suicide last March. This latest kidnapping, occurring after Edward's death, seems to have cleared up any lingering suspicions that he might have been the culprit.[paragraph break]Anyone possessing information regarding the whereabouts of Jeffrey Greer is strongly urged to speakto the authorities as soon as possible.".
 
