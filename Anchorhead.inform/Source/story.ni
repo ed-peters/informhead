@@ -138,7 +138,6 @@ Requesting the full score is an action out of world. Carry out requesting the fu
 
 Understand "full" or "full score" as requesting the full score.
 
-
 Volume 2 - Scenes
 
 Scenes can be tired. A scene is usually not tired.
@@ -1868,29 +1867,120 @@ title    	text (some text)
 
 Book 4 - Family Info
 
-Table of Verlacs
-topic	name	birthday		deathday	album	blook (number)	dlook (number)
-"wilhelm"	"Wilhelm Verlac"	"March 11, 1651"	"October 18, 1734"	"[italic type]Wilhelm Verlac: Fled with mother Eustacia Verlac during the Witch Burnings of 1653; returned to Anchorhead in 1663; elected mayor of Anchorhead in 1690; built the Miskaton River Mill in 1695; began construction of the lighthouse in 1706.[roman type][paragraph break]The picture is a reproduction of a charcoal sketch, probably done when he was a younger man. The similarities to the portrait in the sitting room is evident, though: the patrician nose; the harsh, thin line of the mouth; the lean, wolfish jaw. It is the eyes, however, that carry the true family resemblance. Even in the rough, colorless strokes of charcoal, you can see that they are edged with the same raw madness that haunts the red-tinged gaze of the sitting room portrait."	0	0
-"heinrich"	"Heinrich Verlac"	"October 18, 1734"	"December 16, 1802"	"[italic type]Heinrich Verlac: Added cupola to the Verlac Estate in 1759; elected mayor of Anchorhead in 1765; rebuilt the Miskaton River Mill in 1770; led the battle of Quattac Bend in the Misquat Uprising of 1772; arrested as a Royalist sympathizer in 1777 but subsequently cleared of all charges; completed construction of the lighthouse in 1795.[roman type][paragraph break]The portrait is of Heinrich as an older man, in his late fifties, perhaps. The German ancestry shows through more clearly here, in the set of his jaw and the line of his forehead. The eyes burn with aggressive pride... and perhaps a little of the madness which stained the gaze of his ancestors as well."	0	0
-"elijah"	"Elijah Verlac"	"December 16, 1802"	"January 30, 1886"	"[italic type]Elijah Verlac: Traveled to Europe in 1824 to study painting and to research the Verlac genealogy; returned to Anchorhead in 1832; entered the seminary at Arkham College in 1834; ordained in 1844; began construction of the Church of Celestial Wisdom in Anchorhead in 1860; accused of Confederate sympathies in 1862; retired from the clergy and devoted life to painting in 1873.[roman type][paragraph break]On of the earliest photographic portraits in the album, it depicts a man in his sixties, at least. His face is deeply scored by time, his skin mottled with liver spots, his long, gray hair swept back from a high, bony forehead. This man resembles the portrait in the sitting room more than any of the others, for he has practically the same eyes -- the raw, bloodshot madness staring out from hollow caves in his skull.[paragraph break]You note one other interesting detail: he appears to have an extra digit, a sixth finger, on his
-right hand."	0	0
-"mordecai"	"Mordecai Verlac"	"January 30, 1886" 	"April 26, 1960"	"Mordecai Verlac: Currently residing in Anchorhead; attended seminary at Arkham College in 1906; ordained in 1912; re-established the Church of Celestial Wisdom in 1920; rebuilt the Miskaton River Mill in 1922.[paragraph break]The photograph depicts a man who has returned to his Puritan roots: dressed in spartan black, hair clipped in an archaic tonsure, clutching a Bible in his lap as he glares stoically at the camera. This is the kind of man who would whip his children for laughing on Sunday. His eyes still carry the Verlac madness, burning with single-minded righteousness."	0	0
-"edward"	"Edward Verlac"	"April 26, 1960"	"March 14, 1997"	"Since this book was only published in 1944, there is no mention of Edward Verlac or his family. He probably wasn't even born yet."	0	0
-"blank"	"blank"	--	--	--	0	0
+Section 1 - Names
 
-To decide what text is the birthday for (whom - a snippet):
-	if whom is a topic listed in the Table of Verlacs:
-		now blook entry is 1;
-		decide on "[name entry]: born [birthday entry]";
-	otherwise:
-		decide on "blank".
+Table of Verlac Names
+topic	name	type	known
+"wilhelm"	"Wilhelm Verlac"	"clip"	false
+"wilhelm verlac"	"Wilhelm Verlac"	"clip"	false
+"william"	"William Verlac"	"clip"	false
+"william verlac"	"William Verlac"	"clip"	false
+"will"	"William Verlac"	"clip"	false
+"will verlac"	"William Verlac"	"clip"	false
+"edward"	"Edward Verlac"	"clip"	false
+"edward verlac"	"Edward Verlac"	"clip"	false
+"ed"	"Edward Verlac"	"clip"	false
+"ed verlac"	"Edward Verlac"	"clip"	false
+"croesus"	"Croesus Verlac"	"clip"	false
+"croesus verlac"	"Croesus Verlac"	"clip"	false
+"elijah"	"Elijah Verlac"	"clip"	false
+"elijah verlac"	"Elijah Verlac"	"clip"	false
+"eli"	"Elijah Verlac"	"clip"	false
+"eli verlac"	"Elijah Verlac"	"clip"	false
+"mordecai"	"Mordecai Verlac"	"clip"	false
+"mordecai verlac"	"Mordecai Verlac"	"clip"	false
+"heinrich"	"Heinrich Verlac"	"clip"	false
+"heinrich verlac"	"Heinrich Verlac"	"clip"	false
+"ann"	"Anna Verlac"	"soggy"	false
+"ann verlac"	"Anna Verlac"	"soggy"	false
+"anna"	"Anna Verlac"	"soggy"	false
+"anna verlac"	"Anna Verlac"	"soggy"	false
+"julia"	"Julia Ward Verlac"	"torn"	false
+"julia ward"	"Julia Ward Verlac"	"torn"	false
+"julia ward verlac"	"Julia Ward Verlac"	"torn"	false
+"julia verlac"	"Julia Ward Verlac"	"torn"	false
 
-To decide what text is the deathday for (whom - a snippet):
-	if whom is a topic listed in the Table of Verlacs:
-		now dlook entry is 1;
-		decide on "[name entry]: died [deathday entry]";
-	otherwise:
-		decide on "blank".
+After reading the clippings for the first time:
+	repeat running through the Table of Verlac Names:
+		if the type is "clip":
+			now the known entry is true.
+
+After reading the torn journal for the first time:
+	repeat running through the Table of Verlac Names:
+		if the type is "torn":
+			now the known entry is true.
+
+After reading the soggy pages for the first time:
+	repeat running through the Table of Verlac Names:
+		if the type is "soggy":
+			now the known entry is true.
+
+To decide which text is the vername for (whom - a snippet):
+	repeat through the Table of Verlac Names:
+		if whom matches the topic entry:
+			if the known entry is false:
+				decide on "unknown";
+			otherwise:
+				decide on the name entry;
+	decide on "blank".
+
+Section 2 - Births & Deaths
+
+Table of Verlac Lifespan
+name	birthday	deathday	bused	dused	weight
+"Wilhelm Verlac"	"Wilhelm Verlac: born March 11, 1651"	"Wilhelm Verlac: October 18, 1734"	0	0	1
+"Heinrich Verlac"	"Heinrich Verlac: born October 18, 1734"	"Heinrich Verlac: died December 16, 1802"	0	0	1
+"Croesus Verlac"	"Croesus Verlac: xxx"	"Croesus Verlac: xxx"	0	0	1
+"Elijah Verlac"	"Elijah Verlac: born December 16, 1802"	"Elijah Verlac: died January 30, 1886"	0	0	1
+"Edward Verlac"	"Edward Verlac: born April 26, 1960"	"Edward Verlac: died March 14, 1997"	0	0	1
+"Mordecai Verlac"	"Mordecai Verlac: born January 30, 1886"	"Mordecai Verlac: died April 26, 1960"	0	0	1
+"Anna Verlac"	"Anna Verlac: xxx"	"Anna Verlac: xxx"	0	0	0
+"Julia Ward Verlac"	"Julia Ward: born May 4, 1964"	"Julia Ward Verlac: died January 10, 199"	0	0	0
+
+To decide which text is the birthday for (whom - a snippet):
+	let n be the vername for whom;
+	if n is "unknown":
+		decide on "That's not a name you're familiar with. Since the archives are filled with names you're not familiar with, you are unable to get very far looking for it.";
+	repeat through the Table of Verlac Lifespan:
+		if the name entry is n:
+			now the bused entry is 1;
+			decide on the birthday entry;
+	decide on "huh?".
+
+To decide which text is the deathday for (whom - a snippet):
+	let n be the vername for whom;
+	if n is "unknown":
+		decide on "That's not a name you're familiar with. Since the archives are filled with names you're not familiar with, you are unable to get very far looking for it.";
+	repeat through the Table of Verlac Lifespan:
+		if the name entry is n:
+			now the dused entry is 1;
+			decide on the deathday entry;
+	decide on "huh?".
+
+To decide whether the player has figured out the Verlac lifespan:
+	let count be 0;
+	repeat through the Table of Verlac Lifespan:
+		now count is count plus (the bused entry * the dused entry * the weight entry);
+	if count is greater than 2:
+		repeat through the Table of Verlac Lifespan:
+			now the bused entry is 0;
+			now the dused entry is 0;
+		decide yes;
+	decide no.
+
+
+Section 3 - Photo Album
+
+Table of the Photo Album
+name	content
+"Wilhelm Verlac"	"[italic type]Wilhelm Verlac: Fled with mother Eustacia Verlac during the Witch Burnings of 1653; returned to Anchorhead in 1663; elected mayor of Anchorhead in 1690; built the Miskaton River Mill in 1695; began construction of the lighthouse in 1706.[roman type][paragraph break]The picture is a reproduction of a charcoal sketch, probably done when he was a younger man. The similarities to the portrait in the sitting room is evident, though: the patrician nose; the harsh, thin line of the mouth; the lean, wolfish jaw. It is the eyes, however, that carry the true family resemblance. Even in the rough, colorless strokes of charcoal, you can see that they are edged with the same raw madness that haunts the red-tinged gaze of the sitting room portrait."
+"Heinrich Verlac" "[italic type]Heinrich Verlac: Added cupola to the Verlac Estate in 1759; elected mayor of Anchorhead in 1765; rebuilt the Miskaton River Mill in 1770; led the battle of Quattac Bend in the Misquat Uprising of 1772; arrested as a Royalist sympathizer in 1777 but subsequently cleared of all charges; completed construction of the lighthouse in 1795.[roman type][paragraph break]The portrait is of Heinrich as an older man, in his late fifties, perhaps. The German ancestry shows through more clearly here, in the set of his jaw and the line of his forehead. The eyes burn with aggressive pride... and perhaps a little of the madness which stained the gaze of his ancestors as well."
+"Elijah Verlac"	"[italic type]Elijah Verlac: Traveled to Europe in 1824 to study painting and to research the Verlac genealogy; returned to Anchorhead in 1832; entered the seminary at Arkham College in 1834; ordained in 1844; began construction of the Church of Celestial Wisdom in Anchorhead in 1860; accused of Confederate sympathies in 1862; retired from the clergy and devoted life to painting in 1873.[roman type][paragraph break]On of the earliest photographic portraits in the album, it depicts a man in his sixties, at least. His face is deeply scored by time, his skin mottled with liver spots, his long, gray hair swept back from a high, bony forehead. This man resembles the portrait in the sitting room more than any of the others, for he has practically the same eyes -- the raw, bloodshot madness staring out from hollow caves in his skull.[paragraph break]You note one other interesting detail: he appears to have an extra digit, a sixth finger, on his right hand."
+"Mordecai Verlac"	"Mordecai Verlac: Currently residing in Anchorhead; attended seminary at Arkham College in 1906; ordained in 1912; re-established the Church of Celestial Wisdom in 1920; rebuilt the Miskaton River Mill in 1922.[paragraph break]The photograph depicts a man who has returned to his Puritan roots: dressed in spartan black, hair clipped in an archaic tonsure, clutching a Bible in his lap as he glares stoically at the camera. This is the kind of man who would whip his children for laughing on Sunday. His eyes still carry the Verlac madness, burning with single-minded righteousness."
+"Edward Verlac"	"Since this book was only published in 1944, there is no mention of Edward Verlac or his family. He probably wasn't even born yet."
+"Julia Ward Verlac"	"No mention of Edward's wife, since the book was published in 1944 and she probably wasn't even born yet. Even so, you're uncertain whether Julia Ward would have even counted as a proper Verlac."
+"Anna Verlac"	"You cannot find that name anywhere in the album."
+"William Verlac"	"You cannot find that name anywhere in the album."
 
 To decide what text is the album content for (whom - a snippet):
 	if whom is a topic listed in the Table of Verlacs:
