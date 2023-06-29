@@ -17,2013 +17,2916 @@
     </dict>
     <key>2</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>24</integer>
+        <key>Line</key><integer>30</integer>
         <key>Title</key><string>Volume 1 - Meta</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>3</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>26</integer>
+        <key>Line</key><integer>32</integer>
         <key>Title</key><string>Book 1 - Settings</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>4</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>37</integer>
+        <key>Line</key><integer>48</integer>
         <key>Title</key><string>Book 2 - Extensions</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>5</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>107</integer>
+        <key>Line</key><integer>253</integer>
         <key>Title</key><string>Book 3 - Scoring</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>6</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>143</integer>
+        <key>Line</key><integer>296</integer>
         <key>Title</key><string>Volume 2 - Scenes</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>7</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>147</integer>
-        <key>Title</key><string>Book 1 - Sleeping</string>
+        <key>Line</key><integer>318</integer>
+        <key>Title</key><string>Book 1 - Day One</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>8</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>167</integer>
-        <key>Title</key><string>Book 2 - Day One</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>342</integer>
+        <key>Title</key><string>Part 1 - Michael Reads</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>9</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>187</integer>
-        <key>Title</key><string>Part 1 - Michael Reads</string>
+        <key>Line</key><integer>374</integer>
+        <key>Title</key><string>Part 2 - Michael Follows</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>10</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>211</integer>
-        <key>Title</key><string>Part 2 - Michael Follows</string>
+        <key>Line</key><integer>399</integer>
+        <key>Title</key><string>Part 3 - Michael Sleeps</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>11</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>225</integer>
-        <key>Title</key><string>Part 3 - Michael Sleeps</string>
-        <key>Level</key><integer>3</integer>
-        <key>Indentation</key><integer>3</integer>
-    </dict>
-    <key>12</key><dict>
-        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>238</integer>
-        <key>Title</key><string>Book 3 - Day Two</string>
+        <key>Line</key><integer>409</integer>
+        <key>Title</key><string>Book 2 - Day Two</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
+    <key>12</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>435</integer>
+        <key>Title</key><string>Part 1 - Michael Showers</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
     <key>13</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>263</integer>
-        <key>Title</key><string>Part 1 - Michael Showers</string>
+        <key>Line</key><integer>471</integer>
+        <key>Title</key><string>Part 2 - Michael Writes</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>14</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>294</integer>
-        <key>Title</key><string>Part 2 - Michael Writes</string>
+        <key>Line</key><integer>491</integer>
+        <key>Title</key><string>Part 3 - Close of Day</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>15</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>314</integer>
-        <key>Title</key><string>Part 3 - Close of Day</string>
-        <key>Level</key><integer>3</integer>
-        <key>Indentation</key><integer>3</integer>
+        <key>Line</key><integer>507</integer>
+        <key>Title</key><string>Book 3 - Day Three</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
     </dict>
     <key>16</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>333</integer>
-        <key>Title</key><string>Book 4 - Day Three</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>532</integer>
+        <key>Title</key><string>Part 1 - Michael Sleeps (Again)</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>17</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>355</integer>
-        <key>Title</key><string>Book 5 - Day Four</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>555</integer>
+        <key>Title</key><string>Part 2 - Michael Wanders</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>18</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>359</integer>
-        <key>Title</key><string>Book 6 - Day Five</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>651</integer>
+        <key>Title</key><string>Part 3 - Out on the Town</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>19</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>363</integer>
-        <key>Title</key><string>Volume 3 - Regions &amp; Backdrops</string>
-        <key>Level</key><integer>1</integer>
-        <key>Indentation</key><integer>1</integer>
+        <key>Line</key><integer>664</integer>
+        <key>Title</key><string>Part 4 - Good Will Hunting</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>20</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>365</integer>
-        <key>Title</key><string>Book 1 - Regions</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>704</integer>
+        <key>Title</key><string>Part 5 - Folks on the Road</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>21</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>371</integer>
-        <key>Title</key><string>Book 2 - Backdrops</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>723</integer>
+        <key>Title</key><string>Part 6 - Folks on the Bridge</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>22</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>387</integer>
-        <key>Title</key><string>Volume 4 - North Town</string>
-        <key>Level</key><integer>1</integer>
-        <key>Indentation</key><integer>1</integer>
+        <key>Line</key><integer>746</integer>
+        <key>Title</key><string>Part 7 - Michael Snaps</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>23</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>389</integer>
-        <key>Title</key><string>Book 1 - Outside Office</string>
+        <key>Line</key><integer>760</integer>
+        <key>Title</key><string>Book 4 - The Last Day</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>24</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>454</integer>
-        <key>Title</key><string>Book 2 - Inside Office</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>792</integer>
+        <key>Title</key><string>Part 1 - Loony Binned</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>25</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>538</integer>
-        <key>Title</key><string>Book 3 - Narrow Street</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>821</integer>
+        <key>Title</key><string>Part 2 - Mob Justice</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>26</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>577</integer>
-        <key>Title</key><string>Book 4 - Twisting Lane &amp; Cauldron</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>870</integer>
+        <key>Title</key><string>Part 3 - Will Attacks</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>27</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>631</integer>
-        <key>Title</key><string>Book 5 - University</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>916</integer>
+        <key>Title</key><string>Part 4 - Michael Inspects</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>28</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>724</integer>
-        <key>Title</key><string>Book 6 - Tests</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>941</integer>
+        <key>Title</key><string>Section 1 - Calipers</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
     </dict>
     <key>29</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>750</integer>
-        <key>Title</key><string>Volume 5 - North of Town</string>
-        <key>Level</key><integer>1</integer>
-        <key>Indentation</key><integer>1</integer>
+        <key>Line</key><integer>961</integer>
+        <key>Title</key><string>Section 2 - Fighting</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
     </dict>
     <key>30</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>752</integer>
-        <key>Title</key><string>Book 1 - Mill Road &amp; Entrance</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>978</integer>
+        <key>Title</key><string>Section 3 - Mirrors</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>4</integer>
     </dict>
     <key>31</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>789</integer>
-        <key>Title</key><string>Book 2 - Lighthouse</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1011</integer>
+        <key>Title</key><string>Part 5 - Michael Demands</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>32</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>807</integer>
-        <key>Title</key><string>Book 3 - Tests</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1033</integer>
+        <key>Title</key><string>Part 6 - Michael Summons</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>33</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>813</integer>
-        <key>Title</key><string>Volume 6 - South Town</string>
-        <key>Level</key><integer>1</integer>
-        <key>Indentation</key><integer>1</integer>
+        <key>Line</key><integer>1078</integer>
+        <key>Title</key><string>Part 7 - Abandon Ship</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>34</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>815</integer>
-        <key>Title</key><string>Book 1 - Bridge &amp; Square</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1109</integer>
+        <key>Title</key><string>Part 8 - Michael Flees</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>35</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>845</integer>
-        <key>Title</key><string>Book 2 - Riverwalk &amp; Lot</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1171</integer>
+        <key>Title</key><string>Part 9 - Michael Coughs</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>36</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>965</integer>
-        <key>Title</key><string>Book 3 - Asylum</string>
+        <key>Line</key><integer>1186</integer>
+        <key>Title</key><string>Book 5 - Epilogue</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>37</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>983</integer>
-        <key>Title</key><string>Book 4 - Court House</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1254</integer>
+        <key>Title</key><string>Volume 3 - Regions &amp; Backdrops</string>
+        <key>Level</key><integer>1</integer>
+        <key>Indentation</key><integer>1</integer>
     </dict>
     <key>38</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1026</integer>
-        <key>Title</key><string>Book 5 - Sewer</string>
+        <key>Line</key><integer>1256</integer>
+        <key>Title</key><string>Book 1 - Regions</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>39</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1054</integer>
-        <key>Title</key><string>Book 6 - Tests</string>
+        <key>Line</key><integer>1260</integer>
+        <key>Title</key><string>Book 2 - Backdrops</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>40</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1060</integer>
-        <key>Title</key><string>Volume 7 - South Road</string>
+        <key>Line</key><integer>1276</integer>
+        <key>Title</key><string>Volume 4 - North of the River</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>41</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1062</integer>
-        <key>Title</key><string>Book 1 - Avenue &amp; View</string>
+        <key>Line</key><integer>1278</integer>
+        <key>Title</key><string>Book 1 - Office Environs</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>42</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1096</integer>
-        <key>Title</key><string>Book 2 - Church &amp; Churchyard</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1280</integer>
+        <key>Title</key><string>Part 1 - Outside the Office</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>43</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1098</integer>
-        <key>Title</key><string>Book 3 - Open Road</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1288</integer>
+        <key>Title</key><string>Part 2 - Alley</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>44</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1122</integer>
-        <key>Title</key><string>Book 4 - Tests</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1358</integer>
+        <key>Title</key><string>Part 3 - File Room</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>45</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1131</integer>
-        <key>Title</key><string>Volume 8 - Mansion</string>
-        <key>Level</key><integer>1</integer>
-        <key>Indentation</key><integer>1</integer>
+        <key>Line</key><integer>1379</integer>
+        <key>Title</key><string>Part 4 - Office Interior</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>46</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1145</integer>
-        <key>Title</key><string>Book 1 - Front of the House</string>
+        <key>Line</key><integer>1442</integer>
+        <key>Title</key><string>Book 2 - The Streets</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>47</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1163</integer>
-        <key>Title</key><string>Book 2 - Foyer &amp; First</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1444</integer>
+        <key>Title</key><string>Part 1 - Narrow Street</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>48</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1232</integer>
-        <key>Title</key><string>Book 3 - Kitchen &amp; Pantry</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1450</integer>
+        <key>Title</key><string>Part 2 - Local Pub</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>49</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1264</integer>
-        <key>Title</key><string>Book 4 - The Cellar</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1484</integer>
+        <key>Title</key><string>Part 3 - Junction</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>50</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1333</integer>
-        <key>Title</key><string>Book 5 - Upstairs</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1490</integer>
+        <key>Title</key><string>Part 4 - Twisting Lane</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>51</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1412</integer>
-        <key>Title</key><string>Book 6 - Library &amp; Study</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1500</integer>
+        <key>Title</key><string>Part 5 - Hidden Court</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>52</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1545</integer>
-        <key>Title</key><string>Book 7 - Corridor &amp; Observatory</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1506</integer>
+        <key>Title</key><string>Part 6 - The Cauldron</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>53</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1601</integer>
-        <key>Title</key><string>Book 8 - Attic</string>
+        <key>Line</key><integer>1544</integer>
+        <key>Title</key><string>Book 3 - The University</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>54</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1612</integer>
-        <key>Title</key><string>Book 9 - Behind the House</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1546</integer>
+        <key>Title</key><string>Part 1 - University Court</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>55</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1669</integer>
-        <key>Title</key><string>Book 10 - Tests</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1550</integer>
+        <key>Title</key><string>Part 2 - University Library</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>56</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1683</integer>
-        <key>Title</key><string>Volume 9 - Michael</string>
-        <key>Level</key><integer>1</integer>
-        <key>Indentation</key><integer>1</integer>
+        <key>Line</key><integer>1571</integer>
+        <key>Title</key><string>Part 3 - Circulation Desk</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>57</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1735</integer>
-        <key>Title</key><string>Volume 10 - Simple Things</string>
+        <key>Line</key><integer>1586</integer>
+        <key>Title</key><string>Volume 5 - North of Town</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>58</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1737</integer>
-        <key>Title</key><string>Book 1 - My Things</string>
+        <key>Line</key><integer>1588</integer>
+        <key>Title</key><string>Book 1 - Mill Exterior</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>59</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1749</integer>
-        <key>Title</key><string>Book 2 - Michael's Things</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1590</integer>
+        <key>Title</key><string>Part 1 - Mill Road</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>60</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1758</integer>
-        <key>Title</key><string>Book 3 - Keys</string>
-        <key>Level</key><integer>2</integer>
-        <key>Indentation</key><integer>2</integer>
+        <key>Line</key><integer>1600</integer>
+        <key>Title</key><string>Part 2 - Mill Entrance</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>61</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1768</integer>
-        <key>Title</key><string>Volume 11 - Random Rules</string>
-        <key>Level</key><integer>1</integer>
-        <key>Indentation</key><integer>1</integer>
+        <key>Line</key><integer>1608</integer>
+        <key>Title</key><string>Part 3 - Shanty Town</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>62</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1825</integer>
-        <key>Title</key><string>Volume 12 - Hunks of Text</string>
-        <key>Level</key><integer>1</integer>
-        <key>Indentation</key><integer>1</integer>
+        <key>Line</key><integer>1636</integer>
+        <key>Title</key><string>Part 5 - #11 Mill Town Road</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
     </dict>
     <key>63</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1652</integer>
+        <key>Title</key><string>Part 6 - Bare Foundations</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>64</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1671</integer>
+        <key>Title</key><string>Part 7 - Railroad Tracks</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>65</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1677</integer>
+        <key>Title</key><string>Part 8 - Maintenance Tunnel (part 1)</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>66</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1729</integer>
+        <key>Title</key><string>Part 9 - Maintenance Tunnel (part 2)</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>67</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1761</integer>
+        <key>Title</key><string>Part 10 - Mill Floor</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>68</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1769</integer>
+        <key>Title</key><string>Part 11 - Workshop</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>69</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1790</integer>
+        <key>Title</key><string>Book 2 - Lighthouse</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>70</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1792</integer>
+        <key>Title</key><string>Part 1 - Breakwater</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>71</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1798</integer>
+        <key>Title</key><string>Part 2 - Lighthouse Base</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>72</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1806</integer>
+        <key>Title</key><string>Part 3 - Lighthouse Interior</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>73</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
         <key>Line</key><integer>1827</integer>
+        <key>Title</key><string>Part 4 - Rocky Spur</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>74</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1840</integer>
+        <key>Title</key><string>Part 5 - Flesh Island (eew)</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>75</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1848</integer>
+        <key>Title</key><string>Volume 6 - South of the River</string>
+        <key>Level</key><integer>1</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>76</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1850</integer>
+        <key>Title</key><string>Book 1 - Town Square Environs</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>77</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1852</integer>
+        <key>Title</key><string>Part 1 - Whateley Bridge</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>78</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1858</integer>
+        <key>Title</key><string>Part 2 - Town Square</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>79</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1876</integer>
+        <key>Title</key><string>Part 3 - Courthouse</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>80</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1894</integer>
+        <key>Title</key><string>Part 4 - Side Alley</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>81</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1900</integer>
+        <key>Title</key><string>Part 5 - Riverwalk</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>82</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1909</integer>
+        <key>Title</key><string>Part 6 - Vacant Lot</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>83</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1921</integer>
+        <key>Title</key><string>Part 7 - The Wharf</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>84</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1965</integer>
+        <key>Title</key><string>Part 8 - Chilly Avenue</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>85</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1981</integer>
+        <key>Title</key><string>Book 2 - The Asylum</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>86</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1985</integer>
+        <key>Title</key><string>Part 1 - Dark Corner</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>87</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1989</integer>
+        <key>Title</key><string>Part 2 - Asylum Courtyard</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>88</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>1993</integer>
+        <key>Title</key><string>Part 3 - Waiting Room</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>89</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2001</integer>
+        <key>Title</key><string>Part 4 - Upstairs (general stuff)</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>90</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2031</integer>
+        <key>Title</key><string>Part 5 - Upper Hallway North</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>91</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2062</integer>
+        <key>Title</key><string>Part 6 - Upper Hallway Middle</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>92</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2082</integer>
+        <key>Title</key><string>Part 7 - Upper Hallway South</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>93</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2104</integer>
+        <key>Title</key><string>Part 8 - Stairs &amp; Lower Hall</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>94</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2131</integer>
+        <key>Title</key><string>Book 3 - Sewer</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>95</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2133</integer>
+        <key>Title</key><string>Part 1 - Under the Bridge</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>96</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2145</integer>
+        <key>Title</key><string>Part 2 - Tunnels</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>97</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2163</integer>
+        <key>Title</key><string>Part 3 - Hatch &amp; Outflow</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>98</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2173</integer>
+        <key>Title</key><string>Volume 7 - South of Town</string>
+        <key>Level</key><integer>1</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>99</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2175</integer>
+        <key>Title</key><string>Book 1 - Open Road</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>100</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2177</integer>
+        <key>Title</key><string>Part 1 - Deserted Lane</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>101</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2181</integer>
+        <key>Title</key><string>Part 2 - Down the Road</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>102</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2191</integer>
+        <key>Title</key><string>Book 2 - The Slaughterhouse</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>103</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2193</integer>
+        <key>Title</key><string>Part 1 - Trampled Path</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>104</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2197</integer>
+        <key>Title</key><string>Part 2 - Abandoned Slaughterhouse</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>105</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2203</integer>
+        <key>Title</key><string>Part 3 - Crumbled Ruin</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>106</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2213</integer>
+        <key>Title</key><string>Part 4 - Old Stone Well</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>107</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2226</integer>
+        <key>Title</key><string>Part 5 - In the Well</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>108</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2253</integer>
+        <key>Title</key><string>Book 3 - The Church</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>109</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2255</integer>
+        <key>Title</key><string>Part 1 - Churchyard</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>110</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2265</integer>
+        <key>Title</key><string>Part 2 - Behind the Church</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>111</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2285</integer>
+        <key>Title</key><string>Part 3 - Church Cellar</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>112</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2310</integer>
+        <key>Title</key><string>Part 4 - Empty Stairwell</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>113</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2336</integer>
+        <key>Title</key><string>Part 5 - Broken Stairs</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>114</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2360</integer>
+        <key>Title</key><string>Part 6 - Vestibule</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>115</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2368</integer>
+        <key>Title</key><string>Part 7 - Chapel</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>116</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2388</integer>
+        <key>Title</key><string>Part 8 - Behind the Chapel</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>117</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2394</integer>
+        <key>Title</key><string>Part 9 - Steeple</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>118</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2425</integer>
+        <key>Title</key><string>Part 10 - Handing from the Rope</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>119</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2444</integer>
+        <key>Title</key><string>Volume 8 - Mansion</string>
+        <key>Level</key><integer>1</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>120</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2458</integer>
+        <key>Title</key><string>Book 1 - Main Entry</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>121</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2460</integer>
+        <key>Title</key><string>Part 1 - Scenic View</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>122</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2476</integer>
+        <key>Title</key><string>Part 2 - Outside the House</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>123</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2488</integer>
+        <key>Title</key><string>Part 3 - Foyer &amp; Hall</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>124</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2499</integer>
+        <key>Title</key><string>Book 2 - First Floor</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>125</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2501</integer>
+        <key>Title</key><string>Part 1 - Sitting Room</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>126</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2515</integer>
+        <key>Title</key><string>Part 2 - Gallery</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>127</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2532</integer>
+        <key>Title</key><string>Part 3 - Dining Room</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>128</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2549</integer>
+        <key>Title</key><string>Part 4 - Kitchen</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>129</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2567</integer>
+        <key>Title</key><string>Part 5 - Pantry</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>130</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2577</integer>
+        <key>Title</key><string>Book 3 - Basement</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>131</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2579</integer>
+        <key>Title</key><string>Part 1 - Cellar</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>132</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2594</integer>
+        <key>Title</key><string>Part 2 - Storage Room</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>133</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2646</integer>
+        <key>Title</key><string>Part 3 - Wine Cellar</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>134</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2684</integer>
+        <key>Title</key><string>Book 4 - Second Floor</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>135</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2686</integer>
+        <key>Title</key><string>Part 1 - Landing &amp; Hall</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>136</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2709</integer>
+        <key>Title</key><string>Part 2 - Master Suite</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>137</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2745</integer>
+        <key>Title</key><string>Part 3 - Kid's Room</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>138</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2770</integer>
+        <key>Title</key><string>Part 4 - House Library</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>139</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2855</integer>
+        <key>Title</key><string>Part 5 - Study</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>140</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2911</integer>
+        <key>Title</key><string>Book 5 - Upstairs</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>141</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2913</integer>
+        <key>Title</key><string>Part 1 - Attic</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>142</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2956</integer>
+        <key>Title</key><string>Part 2 - Crawlspace</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>143</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2960</integer>
+        <key>Title</key><string>Part 3 - Attic Cell</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>144</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>2974</integer>
+        <key>Title</key><string>Part 4 - Maze</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>145</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3016</integer>
+        <key>Title</key><string>Part 5 - Observatory</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>146</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3040</integer>
+        <key>Title</key><string>Book 6 - Behind the House</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>147</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3044</integer>
+        <key>Title</key><string>Part 1 - Path</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>148</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3050</integer>
+        <key>Title</key><string>Part 2 - Family Plot</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>149</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3058</integer>
+        <key>Title</key><string>Part 3 - Crypt</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>150</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3101</integer>
+        <key>Title</key><string>Book 7 - Sub-Basement</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>151</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3103</integer>
+        <key>Title</key><string>Part 1 - Windy Passage</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>152</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3112</integer>
+        <key>Title</key><string>Part 2 - Pit Edges</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>153</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3133</integer>
+        <key>Title</key><string>Part 3 - Stairs &amp; Gold Door</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>154</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3148</integer>
+        <key>Title</key><string>Part 4 - The Burial Mound</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>155</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3171</integer>
+        <key>Title</key><string>Volume 9 - People</string>
+        <key>Level</key><integer>1</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>156</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3173</integer>
+        <key>Title</key><string>Book 1 - The Librarian</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>157</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3219</integer>
+        <key>Title</key><string>Book 2 - Michael</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>158</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3244</integer>
+        <key>Title</key><string>Book 3 - The Old Man</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>159</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3322</integer>
+        <key>Title</key><string>Book 4 - Jeffrey's Mom</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>160</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3377</integer>
+        <key>Title</key><string>Book 5 - The Madman</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>161</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3417</integer>
+        <key>Title</key><string>Book 6 - Croesus' Ghost</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>162</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3441</integer>
+        <key>Title</key><string>Volume 10 - Special Things</string>
+        <key>Level</key><integer>1</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>163</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3443</integer>
+        <key>Title</key><string>Book 1 - My Things</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>164</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3494</integer>
+        <key>Title</key><string>Book 2 - Matches</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>165</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3532</integer>
+        <key>Title</key><string>Book 3 - The Magic Flute</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>166</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3601</integer>
+        <key>Title</key><string>Book 4 - Strait Jacket</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>167</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3623</integer>
+        <key>Title</key><string>Book 5 - Mirrors</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>168</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3643</integer>
+        <key>Title</key><string>Book 6 - The Handcuffs</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>169</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3666</integer>
+        <key>Title</key><string>Volume 12 - Atmospherics &amp; Backdrops</string>
+        <key>Level</key><integer>1</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>170</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3668</integer>
+        <key>Title</key><string>Book 1 - Inside the Real Estate Office</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>171</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3671</integer>
+        <key>Title</key><string>Book 3 - Seaside</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>172</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3679</integer>
+        <key>Title</key><string>Book 4 - Woods</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>173</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3687</integer>
+        <key>Title</key><string>Book 5 - Asylum</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>174</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3717</integer>
+        <key>Title</key><string>Volume 13 - Hunks of Text</string>
+        <key>Level</key><integer>1</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>175</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3719</integer>
         <key>Title</key><string>Book 1 - Daily Intros</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>64</key><dict>
+    <key>176</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1836</integer>
+        <key>Line</key><integer>3730</integer>
         <key>Title</key><string>Book 2 - Weird Scenes</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>65</key><dict>
+    <key>177</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1854</integer>
+        <key>Line</key><integer>3748</integer>
         <key>Title</key><string>Book 3 - Newspaper Clippings</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>66</key><dict>
+    <key>178</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1870</integer>
+        <key>Line</key><integer>3764</integer>
         <key>Title</key><string>Book 4 - Family Info</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>67</key><dict>
+    <key>179</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1912</integer>
-        <key>Title</key><string>Book 5 - Frazer</string>
+        <key>Line</key><integer>3766</integer>
+        <key>Title</key><string>Part 1 - Names</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>180</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3823</integer>
+        <key>Title</key><string>Part 2 - Births &amp; Deaths</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>181</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3869</integer>
+        <key>Title</key><string>Part 3 - Photo Album</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>182</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3891</integer>
+        <key>Title</key><string>Book 5 - Library Books</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>68</key><dict>
+    <key>183</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1925</integer>
-        <key>Title</key><string>Book 6 - Journals</string>
+        <key>Line</key><integer>3893</integer>
+        <key>Title</key><string>Part 1 - Wheldrake</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>184</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3897</integer>
+        <key>Title</key><string>Part 2 - Greene</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>185</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3901</integer>
+        <key>Title</key><string>Part 3 - Horne</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>186</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3905</integer>
+        <key>Title</key><string>Part 4 - Frazer</string>
+        <key>Level</key><integer>3</integer>
+        <key>Indentation</key><integer>3</integer>
+    </dict>
+    <key>187</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3929</integer>
+        <key>Title</key><string>Book 7 - Journals</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>69</key><dict>
+    <key>188</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
-        <key>Line</key><integer>1931</integer>
-        <key>Title</key><string>Volume 13 - Testing</string>
+        <key>Line</key><integer>3937</integer>
+        <key>Title</key><string>Volume 14 - Testing</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>70</key><dict>
+    <key>189</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3939</integer>
+        <key>Title</key><string>Book 1 - Day One</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>190</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3949</integer>
+        <key>Title</key><string>Book 2 - Day Two</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>191</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3974</integer>
+        <key>Title</key><string>Book 3 - Day Three</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>192</key><dict>
+        <key>Filename</key><string>/Users/ed.peters/Code/Inform/anchor/Anchorhead.inform/Source/story.ni</string>
+        <key>Line</key><integer>3996</integer>
+        <key>Title</key><string>Book 4 - Last Day</string>
+        <key>Level</key><integer>2</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>193</key><dict>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>--</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>71</key><dict>
+    <key>194</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>--</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>72</key><dict>
+    <key>195</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>6</integer>
         <key>Title</key><string>Part One - Preamble</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>73</key><dict>
+    <key>196</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>107</integer>
         <key>Title</key><string>Part Two - Miscellaneous Definitions</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>74</key><dict>
+    <key>197</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>154</integer>
         <key>Title</key><string>Part Three - Phrasebook</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>75</key><dict>
+    <key>198</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>156</integer>
         <key>Title</key><string>Chapter 1 - Saying</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>76</key><dict>
+    <key>199</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>158</integer>
         <key>Title</key><string>Section 1 - Saying Values</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>77</key><dict>
+    <key>200</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>174</integer>
         <key>Title</key><string>Section 2 - Saying Names</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>78</key><dict>
+    <key>201</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>195</integer>
         <key>Title</key><string>Section 3 - Saying Special Characters</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>79</key><dict>
+    <key>202</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>210</integer>
         <key>Title</key><string>Section 4 - Saying Line and Paragraph Breaks</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>80</key><dict>
+    <key>203</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>231</integer>
         <key>Title</key><string>Section 5 - Saying If and Otherwise</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>81</key><dict>
+    <key>204</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>266</integer>
         <key>Title</key><string>Section 6 - Saying one of</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>82</key><dict>
+    <key>205</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>307</integer>
         <key>Title</key><string>Section 7 - Saying Fonts and Visual Effects</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>83</key><dict>
+    <key>206</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>325</integer>
         <key>Title</key><string>Section 8 - Saying Lists of Values</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>84</key><dict>
+    <key>207</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>337</integer>
         <key>Title</key><string>Chapter 2 - Conditions and Variables</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>85</key><dict>
+    <key>208</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>339</integer>
         <key>Title</key><string>Section 1 - Conditions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>86</key><dict>
+    <key>209</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>348</integer>
         <key>Title</key><string>Section 2 - Assigning Temporary Variables</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>87</key><dict>
+    <key>210</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>386</integer>
         <key>Title</key><string>Section 3 - Increase and Decrease</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>88</key><dict>
+    <key>211</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>407</integer>
         <key>Title</key><string>Chapter 2 - Arithmetic</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>89</key><dict>
+    <key>212</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>409</integer>
         <key>Title</key><string>Section 1 - Arithmetic Operations</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>90</key><dict>
+    <key>213</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>470</integer>
         <key>Title</key><string>Section 2 - Saying Real Numbers</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>91</key><dict>
+    <key>214</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>488</integer>
         <key>Title</key><string>Section 3 - Real Arithmetic</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>92</key><dict>
+    <key>215</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>519</integer>
         <key>Title</key><string>Section 4 - Exponential Functions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>93</key><dict>
+    <key>216</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>536</integer>
         <key>Title</key><string>Section 5 - Trigonometric Functions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>94</key><dict>
+    <key>217</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>567</integer>
         <key>Title</key><string>Section 6 - Trigonometric Functions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>95</key><dict>
+    <key>218</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>597</integer>
         <key>Title</key><string>Chapter 3 - Control</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>96</key><dict>
+    <key>219</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>599</integer>
         <key>Title</key><string>Section 1 - Deciding Outcomes</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>97</key><dict>
+    <key>220</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>615</integer>
         <key>Title</key><string>Section 2 - If and Unless</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>98</key><dict>
+    <key>221</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>630</integer>
         <key>Title</key><string>Section 3 - While and Repeat</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>99</key><dict>
+    <key>222</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>692</integer>
         <key>Title</key><string>Section 4 - Loop Flow</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>100</key><dict>
+    <key>223</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>701</integer>
         <key>Title</key><string>Chapter 4 - Values</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>101</key><dict>
+    <key>224</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>703</integer>
         <key>Title</key><string>Section 1 - Enumerations</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>102</key><dict>
+    <key>225</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>721</integer>
         <key>Title</key><string>Section 2 - Randomness</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>103</key><dict>
+    <key>226</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>745</integer>
         <key>Title</key><string>Section 3 - Default Values</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>104</key><dict>
+    <key>227</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>751</integer>
         <key>Title</key><string>Chapter 5 - Text</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>105</key><dict>
+    <key>228</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>753</integer>
         <key>Title</key><string>Section 1 - Breaking down text</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>106</key><dict>
+    <key>229</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>797</integer>
         <key>Title</key><string>Section 2 - Matching and Replacing</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>107</key><dict>
+    <key>230</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>849</integer>
         <key>Title</key><string>Section 3 - Regular Expressions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>108</key><dict>
+    <key>231</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>875</integer>
         <key>Title</key><string>Section 4 - Casing of Text</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>109</key><dict>
+    <key>232</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>896</integer>
         <key>Title</key><string>Section 5 - Adaptive Text</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>110</key><dict>
+    <key>233</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>935</integer>
         <key>Title</key><string>Chapter 6 - Data Structures</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>111</key><dict>
+    <key>234</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>937</integer>
         <key>Title</key><string>Section 1 - Tables</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>112</key><dict>
+    <key>235</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>993</integer>
         <key>Title</key><string>Section 2 - Sorting Tables</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>113</key><dict>
+    <key>236</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1005</integer>
         <key>Title</key><string>Section 3 - Lists</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>114</key><dict>
+    <key>237</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1051</integer>
         <key>Title</key><string>Section 4 - Length of lists</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>115</key><dict>
+    <key>238</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1072</integer>
         <key>Title</key><string>Section 5 - List operations</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>116</key><dict>
+    <key>239</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1099</integer>
         <key>Title</key><string>Section 6 - Relations</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>117</key><dict>
+    <key>240</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1169</integer>
         <key>Title</key><string>Chapter 7 - Functional Programming</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>118</key><dict>
+    <key>241</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1171</integer>
         <key>Title</key><string>Section 1 - Applying Functions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>119</key><dict>
+    <key>242</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1215</integer>
         <key>Title</key><string>Section 2 - Working with Lists</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>120</key><dict>
+    <key>243</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1244</integer>
         <key>Title</key><string>Chapter 8 - Rulebooks and Activities</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>121</key><dict>
+    <key>244</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1246</integer>
         <key>Title</key><string>Section 1 - Carrying out Activities</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>122</key><dict>
+    <key>245</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1258</integer>
         <key>Title</key><string>Section 2 - Advanced Activities</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>123</key><dict>
+    <key>246</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1285</integer>
         <key>Title</key><string>Section 3 - Following Rules</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>124</key><dict>
+    <key>247</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1316</integer>
         <key>Title</key><string>Section 4 - Success and Failure</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>125</key><dict>
+    <key>248</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1339</integer>
         <key>Title</key><string>Chapter 9 - External Files</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>126</key><dict>
+    <key>249</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1341</integer>
         <key>Title</key><string>Section 1 - Files of Text</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>127</key><dict>
+    <key>250</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1353</integer>
         <key>Title</key><string>Section 2 - Files of Data</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>128</key><dict>
+    <key>251</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1362</integer>
         <key>Title</key><string>Section 3 - File Handling</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>129</key><dict>
+    <key>252</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1377</integer>
         <key>Title</key><string>Part Four - Adjectival Definitions</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>130</key><dict>
+    <key>253</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1379</integer>
         <key>Title</key><string>Section 1 - Miscellaneous Useful Adjectives</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>131</key><dict>
+    <key>254</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1417</integer>
         <key>Title</key><string>Section 2 - Adjectives for Relations</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>132</key><dict>
+    <key>255</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Basic Inform.i7x</string>
         <key>Line</key><integer>1449</integer>
         <key>Title</key><string>Section 3 - Adjectives for Real Numbers</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>133</key><dict>
+    <key>256</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/English Language.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>--</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>134</key><dict>
+    <key>257</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/English Language.i7x</string>
         <key>Line</key><integer>7</integer>
         <key>Title</key><string>Section 1 - Modal verbs and contractions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>135</key><dict>
+    <key>258</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/English Language.i7x</string>
         <key>Line</key><integer>31</integer>
         <key>Title</key><string>Section 2 - Fallback definitions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>136</key><dict>
+    <key>259</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/English Language.i7x</string>
         <key>Line</key><integer>35</integer>
         <key>Title</key><string>Section 1 - Grammatical definitions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>137</key><dict>
+    <key>260</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/English Language.i7x</string>
         <key>Line</key><integer>80</integer>
         <key>Title</key><string>Section 2 - Saying pronouns</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>138</key><dict>
+    <key>261</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/English Language.i7x</string>
         <key>Line</key><integer>262</integer>
         <key>Title</key><string>Section 3 - Further pronouns</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>139</key><dict>
+    <key>262</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>--</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>140</key><dict>
+    <key>263</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>6</integer>
         <key>Title</key><string>Part One - Preamble</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>141</key><dict>
+    <key>264</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>31</integer>
         <key>Title</key><string>Part Two - The Physical World Model</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>142</key><dict>
+    <key>265</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>33</integer>
         <key>Title</key><string>Chapter 1 - Verbs and Relations</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>143</key><dict>
+    <key>266</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>82</integer>
         <key>Title</key><string>Chapter 2 - Kinds for the Physical World</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>144</key><dict>
+    <key>267</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>84</integer>
         <key>Title</key><string>Section 1 - Kind Definitions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>145</key><dict>
+    <key>268</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>97</integer>
         <key>Title</key><string>Section 2 - Rooms</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>146</key><dict>
+    <key>269</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>127</integer>
         <key>Title</key><string>Section 3 - Things</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>147</key><dict>
+    <key>270</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>154</integer>
         <key>Title</key><string>Section 4 - Directions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>148</key><dict>
+    <key>271</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>202</integer>
         <key>Title</key><string>Section 5 - Doors</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>149</key><dict>
+    <key>272</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>219</integer>
         <key>Title</key><string>Section 6 - Containers</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>150</key><dict>
+    <key>273</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>231</integer>
         <key>Title</key><string>Section 7 - Supporters</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>151</key><dict>
+    <key>274</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>243</integer>
         <key>Title</key><string>Section 8 - Openability</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>152</key><dict>
+    <key>275</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>251</integer>
         <key>Title</key><string>Section 9 - Lockability</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>153</key><dict>
+    <key>276</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>270</integer>
         <key>Title</key><string>Section 10 - Backdrops</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>154</key><dict>
+    <key>277</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>280</integer>
         <key>Title</key><string>Section 11 - People</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>155</key><dict>
+    <key>278</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>304</integer>
         <key>Title</key><string>Section 12 - Animals, men and women</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>156</key><dict>
+    <key>279</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>322</integer>
         <key>Title</key><string>Section 13 - Devices</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>157</key><dict>
+    <key>280</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>331</integer>
         <key>Title</key><string>Section 14 - Vehicles</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>158</key><dict>
+    <key>281</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>344</integer>
         <key>Title</key><string>Section 15 - Player's holdall</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>159</key><dict>
+    <key>282</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>355</integer>
         <key>Title</key><string>Section 16 - Inter identifier equivalents</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>160</key><dict>
+    <key>283</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>388</integer>
         <key>Title</key><string>Part Three - Variables and Rulebooks</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>161</key><dict>
+    <key>284</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>390</integer>
         <key>Title</key><string>Chapter 1 - Variables</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>162</key><dict>
+    <key>285</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>392</integer>
         <key>Title</key><string>Section 1 - Situation</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>163</key><dict>
+    <key>286</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>412</integer>
         <key>Title</key><string>Section 2 - Current action</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>164</key><dict>
+    <key>287</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>427</integer>
         <key>Title</key><string>Section 3 - Used when ruling on accessibility</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>165</key><dict>
+    <key>288</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>439</integer>
         <key>Title</key><string>Section 4 - Used when understanding typed commands</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>166</key><dict>
+    <key>289</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>452</integer>
         <key>Title</key><string>Section 5 - Presentation on screen</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>167</key><dict>
+    <key>290</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>466</integer>
         <key>Title</key><string>Section 6 - Language generation</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>168</key><dict>
+    <key>291</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>472</integer>
         <key>Title</key><string>Section 7 - Unindexed Standard Rules variables -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>169</key><dict>
+    <key>292</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>484</integer>
         <key>Title</key><string>Section SR2/6b - Unindexed Standard Rules variables -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>170</key><dict>
+    <key>293</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>488</integer>
         <key>Title</key><string>Section 8 - Unindexed Standard Rules variables -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>171</key><dict>
+    <key>294</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>505</integer>
         <key>Title</key><string>Chapter 2 - Rulebooks</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>172</key><dict>
+    <key>295</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>507</integer>
         <key>Title</key><string>Section 1 - The Standard Rulebooks</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>173</key><dict>
+    <key>296</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>556</integer>
         <key>Title</key><string>Section 2 - The Standard Rules</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>174</key><dict>
+    <key>297</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>640</integer>
         <key>Title</key><string>Section 3 - The Entire Game scene</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>175</key><dict>
+    <key>298</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>646</integer>
         <key>Title</key><string>Section 4 - Action processing</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>176</key><dict>
+    <key>299</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>735</integer>
         <key>Title</key><string>Section 5 - Accessibility</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>177</key><dict>
+    <key>300</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>768</integer>
         <key>Title</key><string>Section 6 - Adjectival definitions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>178</key><dict>
+    <key>301</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>773</integer>
         <key>Title</key><string>Section 7 - Scene descriptions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>179</key><dict>
+    <key>302</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>780</integer>
         <key>Title</key><string>Section 8 - Command parser errors</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>180</key><dict>
+    <key>303</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>812</integer>
         <key>Title</key><string>Section 9 - Responses for internal rules</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>181</key><dict>
+    <key>304</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>930</integer>
         <key>Title</key><string>Part Four - Activities</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>182</key><dict>
+    <key>305</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>932</integer>
         <key>Title</key><string>Section 1 - Responses</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>183</key><dict>
+    <key>306</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>943</integer>
         <key>Title</key><string>Section 2 - Naming and Listing</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>184</key><dict>
+    <key>307</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>986</integer>
         <key>Title</key><string>Section 3 - Command parsing</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>185</key><dict>
+    <key>308</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>1032</integer>
         <key>Title</key><string>Section 4 - Posthumous activities</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>186</key><dict>
+    <key>309</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>1070</integer>
         <key>Title</key><string>Section 5 - The Final Question</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>187</key><dict>
+    <key>310</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>1107</integer>
         <key>Title</key><string>Section 6 - Final question options</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>188</key><dict>
+    <key>311</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>1117</integer>
         <key>Title</key><string>Section 7 - Locale descriptions -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>189</key><dict>
+    <key>312</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>1325</integer>
         <key>Title</key><string>Part Five - Actions</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>190</key><dict>
+    <key>313</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>1327</integer>
         <key>Title</key><string>Section 1 - Verbs needed for adaptive text</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>191</key><dict>
+    <key>314</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>1343</integer>
         <key>Title</key><string>Section 2 - Standard actions concerning the actor's possessions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>192</key><dict>
+    <key>315</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>1788</integer>
         <key>Title</key><string>Section 3 - Standard actions which move the actor</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>193</key><dict>
+    <key>316</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>2189</integer>
         <key>Title</key><string>Section 4 - Standard actions concerning the actor's vision</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>194</key><dict>
+    <key>317</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>2486</integer>
         <key>Title</key><string>Section 5 - Standard actions which change the state of things</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>195</key><dict>
+    <key>318</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>2884</integer>
         <key>Title</key><string>Section 6 - Standard actions concerning other people</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>196</key><dict>
+    <key>319</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>3201</integer>
         <key>Title</key><string>Section 7 - Standard actions which are checked but then do nothing unless rules intervene</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>197</key><dict>
+    <key>320</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>3481</integer>
         <key>Title</key><string>Section 8 - Standard actions which always do nothing unless rules intervene</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>198</key><dict>
+    <key>321</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>3802</integer>
         <key>Title</key><string>Section 9 - Standard actions which happen out of world</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>199</key><dict>
+    <key>322</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>3964</integer>
         <key>Title</key><string>Part Six - Grammar</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>200</key><dict>
+    <key>323</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4189</integer>
         <key>Title</key><string>Part Seven - Phrasebook</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>201</key><dict>
+    <key>324</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4191</integer>
         <key>Title</key><string>Chapter 1 - Saying</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>202</key><dict>
+    <key>325</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4193</integer>
         <key>Title</key><string>Section 1 - Time Values</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>203</key><dict>
+    <key>326</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4205</integer>
         <key>Title</key><string>Section 2 - Boxed quotations</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>204</key><dict>
+    <key>327</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4211</integer>
         <key>Title</key><string>Section 3 - Some built-in texts</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>205</key><dict>
+    <key>328</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4232</integer>
         <key>Title</key><string>Section 4 - Responses</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>206</key><dict>
+    <key>329</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4238</integer>
         <key>Title</key><string>Section 5 - Saying lists of things</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>207</key><dict>
+    <key>330</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4345</integer>
         <key>Title</key><string>Section 6 - Group in and omit from lists</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>208</key><dict>
+    <key>331</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4372</integer>
         <key>Title</key><string>Section 7 - Filtering contents of lists -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>209</key><dict>
+    <key>332</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4379</integer>
         <key>Title</key><string>Chapter 2 - Multimedia</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>210</key><dict>
+    <key>333</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4381</integer>
         <key>Title</key><string>Section 1 - Figures</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>211</key><dict>
+    <key>334</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4390</integer>
         <key>Title</key><string>Section 2 - Sound effects</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>212</key><dict>
+    <key>335</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4399</integer>
         <key>Title</key><string>Chapter 3 - Actions, activities and rules</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>213</key><dict>
+    <key>336</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4401</integer>
         <key>Title</key><string>Section 1 - Trying actions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>214</key><dict>
+    <key>337</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4415</integer>
         <key>Title</key><string>Section 2 - Action requirements</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>215</key><dict>
+    <key>338</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4455</integer>
         <key>Title</key><string>Section 3 - Stop or continue</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>216</key><dict>
+    <key>339</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4464</integer>
         <key>Title</key><string>Section 4 - Actions as values</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>217</key><dict>
+    <key>340</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4488</integer>
         <key>Title</key><string>Chapter 4 - The Model World</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>218</key><dict>
+    <key>341</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4490</integer>
         <key>Title</key><string>Section 1 - Ending the story</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>219</key><dict>
+    <key>342</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4520</integer>
         <key>Title</key><string>Section 2 - Times of day</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>220</key><dict>
+    <key>343</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4542</integer>
         <key>Title</key><string>Section 3 - Durations</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>221</key><dict>
+    <key>344</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4551</integer>
         <key>Title</key><string>Section 4 - Timed events</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>222</key><dict>
+    <key>345</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4563</integer>
         <key>Title</key><string>Section 5 - Scenes</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>223</key><dict>
+    <key>346</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4578</integer>
         <key>Title</key><string>Section 6 - Timing of scenes</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>224</key><dict>
+    <key>347</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4593</integer>
         <key>Title</key><string>Section 7 - Player's identity and location</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>225</key><dict>
+    <key>348</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4599</integer>
         <key>Title</key><string>Section 8 - Moving and removing things</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>226</key><dict>
+    <key>349</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4617</integer>
         <key>Title</key><string>Section 9 - The map</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>227</key><dict>
+    <key>350</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4653</integer>
         <key>Title</key><string>Section 10 - Route-finding</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>228</key><dict>
+    <key>351</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4674</integer>
         <key>Title</key><string>Section 11 - The object tree</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>229</key><dict>
+    <key>352</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4686</integer>
         <key>Title</key><string>Chapter 5 - Understanding</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>230</key><dict>
+    <key>353</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4688</integer>
         <key>Title</key><string>Section 1 - Asking yes/no questions</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>231</key><dict>
+    <key>354</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4694</integer>
         <key>Title</key><string>Section 2 - The player's command</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>232</key><dict>
+    <key>355</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4709</integer>
         <key>Title</key><string>Section 3 - Changing the player's command</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>233</key><dict>
+    <key>356</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4724</integer>
         <key>Title</key><string>Section 4 - Scope and pronouns</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>234</key><dict>
+    <key>357</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4736</integer>
         <key>Title</key><string>Section 5 - The multiple object list</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>235</key><dict>
+    <key>358</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4745</integer>
         <key>Title</key><string>Section SR5/8/1 - Message support - Issuance -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>236</key><dict>
+    <key>359</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4762</integer>
         <key>Title</key><string>Chapter 6 - Deprecated or private phrases -</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>237</key><dict>
+    <key>360</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4764</integer>
         <key>Title</key><string>Section 1 - Spatial modelling -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>238</key><dict>
+    <key>361</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4785</integer>
         <key>Title</key><string>Section 2 - Room descriptions -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>239</key><dict>
+    <key>362</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4800</integer>
         <key>Title</key><string>Section 3 - Action conversion -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>240</key><dict>
+    <key>363</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4810</integer>
         <key>Title</key><string>Section 4 - Surreptitious violation of invariants -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>241</key><dict>
+    <key>364</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4819</integer>
         <key>Title</key><string>Section 5 - Capitalised list-writing -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>242</key><dict>
+    <key>365</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4828</integer>
         <key>Title</key><string>Section 6 - Printing names -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>243</key><dict>
+    <key>366</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4833</integer>
         <key>Title</key><string>Section 7 - Command parsing -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>244</key><dict>
+    <key>367</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4838</integer>
         <key>Title</key><string>Section 8 - Deprecated Inform -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>245</key><dict>
+    <key>368</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Graham Nelson/Standard Rules.i7x</string>
         <key>Line</key><integer>4847</integer>
         <key>Title</key><string>Section 9 - Debugging Inform -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>246</key><dict>
+    <key>369</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>--</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>247</key><dict>
+    <key>370</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
         <key>Line</key><integer>9</integer>
         <key>Title</key><string>Section - Clearing the screen</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>248</key><dict>
+    <key>371</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
         <key>Line</key><integer>22</integer>
         <key>Title</key><string>Section - Waiting for key-presses, quitting suddenly</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>249</key><dict>
+    <key>372</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
         <key>Line</key><integer>87</integer>
         <key>Title</key><string>Section - Showing the current quotation</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>250</key><dict>
+    <key>373</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
         <key>Line</key><integer>94</integer>
         <key>Title</key><string>Section - Centering text on-screen</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>251</key><dict>
+    <key>374</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
         <key>Line</key><integer>148</integer>
         <key>Title</key><string>Section - Customizing the status line</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>252</key><dict>
+    <key>375</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Basic Screen Effects.i7x</string>
         <key>Line</key><integer>215</integer>
         <key>Title</key><string>Section - Color effects</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>253</key><dict>
+    <key>376</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Glulx Text Effects.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>--</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>377</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Glulx Text Effects.i7x</string>
+        <key>Line</key><integer>11</integer>
+        <key>Title</key><string>Chapter - Specifying styles</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>378</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Glulx Text Effects.i7x</string>
+        <key>Line</key><integer>26</integer>
+        <key>Title</key><string>Section - The Table of User Styles definition</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>379</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Glulx Text Effects.i7x</string>
+        <key>Line</key><integer>36</integer>
+        <key>Title</key><string>Chapter - Sorting the Table of User Styles</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>380</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Glulx Text Effects.i7x</string>
+        <key>Line</key><integer>80</integer>
+        <key>Title</key><string>Chapter - Setting the styles -</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>381</key><dict>
+        <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Glulx Text Effects.i7x</string>
+        <key>Line</key><integer>188</integer>
+        <key>Title</key><string>Chapter - Additional style phrases</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>382</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>--</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>254</key><dict>
+    <key>383</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>9</integer>
         <key>Title</key><string>Volume 1 - Automatic locking and unlocking with necessary actions</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>255</key><dict>
+    <key>384</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>61</integer>
         <key>Title</key><string>Volume 2 - Default locking and unlocking</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>256</key><dict>
+    <key>385</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>63</integer>
         <key>Title</key><string>Part 1 - The matching key rule</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>257</key><dict>
+    <key>386</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>89</integer>
         <key>Title</key><string>Part 2 - Unlocking</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>258</key><dict>
+    <key>387</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>91</integer>
         <key>Title</key><string>Section 1 - Regular unlocking</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>259</key><dict>
+    <key>388</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>115</integer>
         <key>Title</key><string>Section 2 - Keylessly</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>260</key><dict>
+    <key>389</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>139</integer>
         <key>Title</key><string>Part 3 - Locking</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>261</key><dict>
+    <key>390</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>141</integer>
         <key>Title</key><string>Section 1 - Regular locking</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>262</key><dict>
+    <key>391</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>154</integer>
         <key>Title</key><string>Section 2 - Keylessly</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>263</key><dict>
+    <key>392</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>178</integer>
         <key>Title</key><string>Volume 3 - The Passkey kind, needed only if you want keys to name themselves</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>264</key><dict>
+    <key>393</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>211</integer>
         <key>Title</key><string>Volume 4 - The Keychain kind, needed only if you want a keychain</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>265</key><dict>
+    <key>394</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>235</integer>
         <key>Title</key><string>Volume 5 - Support Materials</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>266</key><dict>
+    <key>395</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Emily Short/Locksmith.i7x</string>
         <key>Line</key><integer>289</integer>
         <key>Title</key><string>Volume 6 - Unlocking all -</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>267</key><dict>
+    <key>396</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>--</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>268</key><dict>
+    <key>397</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>7</integer>
         <key>Title</key><string>Part - Included Extensions</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>269</key><dict>
+    <key>398</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>13</integer>
         <key>Title</key><string>Part - Tables</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>270</key><dict>
+    <key>399</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>41</integer>
         <key>Title</key><string>Part - Menus</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>271</key><dict>
+    <key>400</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>46</integer>
         <key>Title</key><string>Section -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>272</key><dict>
+    <key>401</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>53</integer>
         <key>Title</key><string>Part - Menu labels</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>273</key><dict>
+    <key>402</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>61</integer>
         <key>Title</key><string>Section -</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>274</key><dict>
+    <key>403</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>99</integer>
         <key>Title</key><string>Part - Displaying a menu</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>275</key><dict>
+    <key>404</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>153</integer>
         <key>Title</key><string>Chapter - Clearing the screen</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>276</key><dict>
+    <key>405</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>163</integer>
         <key>Title</key><string>Chapter - Displaying one single menu</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>277</key><dict>
+    <key>406</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>189</integer>
         <key>Title</key><string>Chapter - The menu's status line -</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>278</key><dict>
+    <key>407</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>206</integer>
         <key>Title</key><string>Chapter - Process a command -</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>279</key><dict>
+    <key>408</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>268</integer>
         <key>Title</key><string>Part - Glulx interface effects</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>280</key><dict>
+    <key>409</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>270</integer>
         <key>Title</key><string>Chapter - Popover menu window</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>281</key><dict>
+    <key>410</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>289</integer>
         <key>Title</key><string>Chapter - Open the status window if required -</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>282</key><dict>
+    <key>411</key><dict>
         <key>Filename</key><string>/Users/ed.peters/Library/Inform/Extensions/Dannii Willis/Menus.i7x</string>
         <key>Line</key><integer>304</integer>
         <key>Title</key><string>Chapter - Menu hyperlinks -</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>283</key><dict>
+    <key>412</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>--</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>284</key><dict>
+    <key>413</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
         <key>Line</key><integer>5</integer>
         <key>Title</key><string>Book 1 - Sight</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>285</key><dict>
+    <key>414</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
         <key>Line</key><integer>32</integer>
         <key>Title</key><string>Book 2 - Familiarity</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>286</key><dict>
+    <key>415</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
         <key>Line</key><integer>34</integer>
         <key>Title</key><string>Chapter 1 - Basic Familiarity</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>287</key><dict>
+    <key>416</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
         <key>Line</key><integer>46</integer>
         <key>Title</key><string>Chapter 2 - Subject</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>288</key><dict>
+    <key>417</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
         <key>Line</key><integer>52</integer>
         <key>Title</key><string>Chapter 3 - Familiarity of Subjects</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>289</key><dict>
+    <key>418</key><dict>
         <key>Filename</key><string>/Applications/Inform.app/Contents/Resources/Internal/Extensions/Eric Eve/Epistemology.i7x</string>
         <key>Line</key><integer>56</integer>
         <key>Title</key><string>Book 3 - Testing commands -</string>
